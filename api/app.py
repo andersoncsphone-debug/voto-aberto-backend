@@ -1,42 +1,51 @@
 from flask import Flask, jsonify
 import json
-import urllib.request
+import glob
+import os
 
 app = Flask(__name__)
 
-# URL do arquivo JSON da Câmara (vamos usar o de 2024 que é menor)
-URL_ARQUIVO = "http://www.camara.leg.br/cotas/Ano-2024.json"
-
 @app.route('/gastos/<id_deputado>')
 def buscar_gastos(id_deputado):
-    try:
-        # 1. Baixa o arquivo da Câmara
-        resposta = urllib.request.urlopen(URL_ARQUIVO)
-        dados = json.loads(resposta.read().decode('utf-8'))
-        
-        # 2. Filtra os gastos do deputado
-        gastos = [d for d in dados.get('dados', []) if str(d.get('idDeputado')) == id_deputado]
-        
-        if not gastos:
-            return jsonify({"erro": "Nenhum gasto encontrado para este deputado."}), 404
+    total_gasto = 0.0
+    meses_com_gasto = set()
+    ultimo_mes = ""
 
-        # 3. Calcula os totais
-        total = sum(float(d.get('valorLiquido', 0)) for d in gastos)
-        meses = len(set(d.get('mes') for d in gastos))
-        media = total / meses if meses > 0 else 0
-        ultimo_mes = f"Mês {gastos[-1]['mes']}/{gastos[-1]['ano']}"
+    # O caminho relativo a partir da pasta 'api' (raiz do Render)
+    # Ele vai procurar qualquer arquivo .json dentro de 'dados/despesas/'
+    padrao_busca = os.path.join('dados', 'despesas', '*.json')
+    arquivos = glob.glob(padrao_busca)
 
-        # 4. Retorna um JSON pequeno e limpo
-        return jsonify({
-            "id": id_deputado,
-            "total_gasto": total,
-            "media_mensal": media,
-            "ultimo_mes": ultimo_mes,
-            "total_despesas": len(gastos)
-        })
+    if not arquivos:
+        return jsonify({"erro": "Nenhum arquivo de despesa encontrado no servidor."}), 500
 
-    except Exception as e:
-        return jsonify({"erro": str(e)}), 500
+    for arquivo in arquivos:
+        try:
+            with open(arquivo, 'r', encoding='utf-8') as f:
+                dados = json.load(f)
+                # Filtra pelo ID do deputado
+                gastos = [d for d in dados.get('dados', []) if str(d.get('idDeputado')) == id_deputado]
+                
+                for g in gastos:
+                    total_gasto += float(g.get('valorLiquido', 0))
+                    meses_com_gasto.add(g.get('mes'))
+                    ultimo_mes = f"Mês {g.get('mes')}/{g.get('ano')}"
+        except Exception as e:
+            print(f"Erro ao ler {arquivo}: {e}")
+            continue
+
+    if total_gasto == 0:
+        return jsonify({"erro": "Nenhum gasto encontrado para este deputado."}), 404
+
+    media = total_gasto / len(meses_com_gasto) if meses_com_gasto else 0
+
+    return jsonify({
+        "id": id_deputado,
+        "total_gasto": total_gasto,
+        "media_mensal": media,
+        "ultimo_mes": ultimo_mes,
+        "total_despesas": len(meses_com_gasto)
+    })
 
 if __name__ == '__main__':
     app.run(debug=True)
