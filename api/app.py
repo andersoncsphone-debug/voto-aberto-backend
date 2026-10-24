@@ -1,13 +1,14 @@
 from flask import Flask, jsonify
+from flask_cors import CORS  # Importa a biblioteca de liberação
 import json
 import os
 import glob
 
 app = Flask(__name__)
+CORS(app) # Libera o acesso para qualquer site (incluindo o seu app no Chrome)
 
 @app.route('/gastos/<id_deputado>')
 def buscar_gastos(id_deputado):
-    # Procura qualquer arquivo que comece com 'politico_ID' (seja único ou dividido)
     padrao_busca = os.path.join('dados', 'por_politico', f'politico_{id_deputado}*.json')
     arquivos = glob.glob(padrao_busca)
 
