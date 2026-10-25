@@ -10,7 +10,6 @@ CORS(app)
 
 @app.route('/gastos/<id_deputado>')
 def buscar_gastos(id_deputado):
-    # Agora aceita intervalo de anos
     ano_inicio = request.args.get('ano_inicio')
     ano_fim = request.args.get('ano_fim')
     
@@ -22,7 +21,7 @@ def buscar_gastos(id_deputado):
 
     todas_as_despesas = []
     resumo_mensal = defaultdict(float)
-    anos_com_gasto = set()
+    anos_historicos = set() # Guarda todos os anos que ele teve gastos
 
     for arquivo in arquivos:
         try:
@@ -30,13 +29,14 @@ def buscar_gastos(id_deputado):
                 dados = json.load(f)
                 for g in dados.get('dados', []):
                     ano = int(g.get('ano'))
-                    mes = int(g.get('mes'))
+                    anos_historicos.add(ano) # Adiciona o ano ao histórico geral
                     
-                    # Filtra pelo intervalo de anos do mandato
+                    # Se um filtro de mandato foi enviado, só processa se estiver dentro dele
                     if ano_inicio and ano_fim:
                         if ano < int(ano_inicio) or ano > int(ano_fim):
                             continue
                     
+                    mes = int(g.get('mes'))
                     valor = float(g.get('valorLiquido', 0))
                     todas_as_despesas.append({
                         "mes": mes,
@@ -46,7 +46,6 @@ def buscar_gastos(id_deputado):
                         "url_pdf": g.get('urlDocumento', '')
                     })
                     resumo_mensal[f"{mes}/{ano}"] += valor
-                    anos_com_gasto.add(ano)
         except Exception as e:
             print(f"Erro ao ler {arquivo}: {e}")
 
@@ -62,5 +61,5 @@ def buscar_gastos(id_deputado):
         "media_mensal": media,
         "despesas": todas_as_despesas,
         "resumo_mensal": resumo_mensal,
-        "anos_disponiveis": sorted(list(anos_com_gasto))
+        "anos_historicos": sorted(list(anos_historicos)) # Envia todos os anos para os botões
     })
