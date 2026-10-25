@@ -10,8 +10,9 @@ CORS(app)
 
 @app.route('/gastos/<id_deputado>')
 def buscar_gastos(id_deputado):
-    ano_filtro = request.args.get('ano')
-    mes_filtro = request.args.get('mes')
+    # Agora aceita intervalo de anos
+    ano_inicio = request.args.get('ano_inicio')
+    ano_fim = request.args.get('ano_fim')
     
     padrao_busca = os.path.join('dados', 'por_politico', f'politico_{id_deputado}*.json')
     arquivos = glob.glob(padrao_busca)
@@ -20,7 +21,7 @@ def buscar_gastos(id_deputado):
         return jsonify({"erro": "Nenhum gasto encontrado."}), 404
 
     todas_as_despesas = []
-    resumo_mensal = defaultdict(float) # Guarda o total por "mes/ano"
+    resumo_mensal = defaultdict(float)
     anos_com_gasto = set()
 
     for arquivo in arquivos:
@@ -28,43 +29,37 @@ def buscar_gastos(id_deputado):
             with open(arquivo, 'r', encoding='utf-8') as f:
                 dados = json.load(f)
                 for g in dados.get('dados', []):
-                    ano = str(g.get('ano'))
-                    mes = str(g.get('mes'))
+                    ano = int(g.get('ano'))
+                    mes = int(g.get('mes'))
                     
-                    if ano_filtro and ano != str(ano_filtro):
-                        continue
-                    if mes_filtro and mes != str(mes_filtro):
-                        continue
+                    # Filtra pelo intervalo de anos do mandato
+                    if ano_inicio and ano_fim:
+                        if ano < int(ano_inicio) or ano > int(ano_fim):
+                            continue
                     
                     valor = float(g.get('valorLiquido', 0))
                     todas_as_despesas.append({
-                        "mes": int(mes),
-                        "ano": int(ano),
+                        "mes": mes,
+                        "ano": ano,
                         "valor": valor,
                         "fornecedor": g.get('fornecedor', 'Desconhecido'),
                         "url_pdf": g.get('urlDocumento', '')
                     })
-                    
-                    # Agrupa o total por mês
-                    chave_mes = f"{mes}/{ano}"
-                    resumo_mensal[chave_mes] += valor
-                    anos_com_gasto.add(int(ano))
+                    resumo_mensal[f"{mes}/{ano}"] += valor
+                    anos_com_gasto.add(ano)
         except Exception as e:
             print(f"Erro ao ler {arquivo}: {e}")
 
     if not todas_as_despesas:
-        return jsonify({"erro": "Nenhuma despesa encontrada."}), 404
+        return jsonify({"erro": "Nenhuma despesa encontrada para este período."}), 404
 
     total = sum(d['valor'] for d in todas_as_despesas)
-    
-    # Calcula a média real (Total dividido pelos meses que tiveram gasto)
-    meses_unicos = len(resumo_mensal)
-    media_real = total / meses_unicos if meses_unicos > 0 else 0
+    media = total / len(resumo_mensal) if resumo_mensal else 0
 
     return jsonify({
         "id": id_deputado,
         "total_gasto": total,
-        "media_mensal": media_real,
+        "media_mensal": media,
         "despesas": todas_as_despesas,
         "resumo_mensal": resumo_mensal,
         "anos_disponiveis": sorted(list(anos_com_gasto))
