@@ -1,16 +1,13 @@
 from flask import Flask, jsonify, request, Blueprint
 from flask_cors import CORS
 import os
-import json
 import time
 import requests
 import pandas as pd
 
-# 1. Aqui é onde o motor do app dá a partida!
 app = Flask(__name__)
 CORS(app)
 
-# 2. Configurações do robô de votações
 votacoes_bp = Blueprint('votacoes', __name__)
 BASE_URL = "https://dadosabertos.camara.leg.br/arquivos"
 CACHE_DIR = "/tmp/cache_votacoes"
@@ -29,9 +26,7 @@ def _precisa_baixar(caminho: str) -> bool:
 
 def _baixar_csv(ano: int, nome: str) -> str:
     caminho = _arquivo_local(nome)
-    
     if _precisa_baixar(caminho):
-        # AQUI ESTÁ A CORREÇÃO DO LINK QUE VOCÊ DESCOBRIU
         if "votacoesVotos" in nome:
             url = f"https://dadosabertos.camara.leg.br/arquivos/votacoesVotos/csv/{nome}"
         else:
@@ -91,7 +86,6 @@ def votacoes_deputado(id_deputado):
     except Exception as e:
         return jsonify({"erro": str(e), "votacoes": []}), 500
 
-# Rota especial só para testar no navegador
 @votacoes_bp.route("/votacoes/teste/<id_deputado>", methods=["GET"])
 def votacoes_teste(id_deputado):
     try:
@@ -104,14 +98,11 @@ def votacoes_teste(id_deputado):
     except Exception as e:
         return jsonify({"status": "erro", "detalhe": str(e)}), 500
 
-# 3. Aqui a gente "pluga" as rotas de votações no motor principal
 app.register_blueprint(votacoes_bp)
 
-# Rota básica só para saber se o app está vivo
 @app.route("/")
 def home():
     return "Backend do Voto Aberto está rodando!"
 
-# 4. Comando para ligar o app
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=int(os.environ.get("PORT", 5000)))
