@@ -136,6 +136,7 @@ def detalhes_proposicao(id_proposicao):
         })
     except Exception as e:
         return jsonify({'erro': str(e)}), 500
+# ... (todas as rotas) ...
 
 if __name__ == '__main__':
     app.run(debug=True)
