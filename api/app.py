@@ -30,7 +30,10 @@ def _precisa_baixar(caminho: str) -> bool:
 def _baixar_csv(ano: int, nome: str) -> str:
     caminho = _arquivo_local(nome)
     if _precisa_baixar(caminho):
-        url = f"{BASE_URL}/votacoes/csv/{nome}"
+       if "votacoesVotos" in nome:
+    url = f"https://dadosabertos.camara.leg.br/arquivos/votacoesVotos/csv/{nome}"
+else:
+    url = f"{BASE_URL}/votacoes/csv/{nome}"
         print(f"[votacoes] Baixando {url} ...")
         r = requests.get(url, timeout=120)
         r.raise_for_status()
