@@ -3,11 +3,16 @@ from flask_cors import CORS
 import json
 import os
 import glob
+import requests
+import re
 from collections import defaultdict
 
 app = Flask(__name__)
 CORS(app)
 
+# ==========================================
+# ROTA DE GASTOS (CEAP)
+# ==========================================
 @app.route('/gastos/<id_deputado>')
 def buscar_gastos(id_deputado):
     ano_inicio = request.args.get('ano_inicio')
@@ -21,7 +26,7 @@ def buscar_gastos(id_deputado):
 
     todas_as_despesas = []
     resumo_mensal = defaultdict(float)
-    anos_historicos = set() # Guarda todos os anos que ele teve gastos
+    anos_historicos = set()
 
     for arquivo in arquivos:
         try:
@@ -29,9 +34,8 @@ def buscar_gastos(id_deputado):
                 dados = json.load(f)
                 for g in dados.get('dados', []):
                     ano = int(g.get('ano'))
-                    anos_historicos.add(ano) # Adiciona o ano ao histórico geral
+                    anos_historicos.add(ano)
                     
-                    # Se um filtro de mandato foi enviado, só processa se estiver dentro dele
                     if ano_inicio and ano_fim:
                         if ano < int(ano_inicio) or ano > int(ano_fim):
                             continue
@@ -61,5 +65,77 @@ def buscar_gastos(id_deputado):
         "media_mensal": media,
         "despesas": todas_as_despesas,
         "resumo_mensal": resumo_mensal,
-        "anos_historicos": sorted(list(anos_historicos)) # Envia todos os anos para os botões
+        "anos_historicos": sorted(list(anos_historicos))
     })
+
+# ==========================================
+# ROTA DE VOTAÇÕES (NOVA)
+# ==========================================
+@app.route('/votacoes/<id_deputado>')
+def buscar_votacoes(id_deputado):
+    try:
+        url_votacoes = 'https://dadosabertos.camara.leg.br/api/v2/votacoes?ordem=DESC&ordenarPor=dataHoraRegistro&itens=10'
+        resp = requests.get(url_votacoes).json()
+        lista_votacoes = resp.get('dados', [])
+
+        votos_do_deputado = []
+
+        for votacao in lista_votacoes:
+            id_votacao = votacao['id']
+            descricao = votacao.get('descricao', 'Descrição não disponível')
+
+            url_votos = f'https://dadosabertos.camara.leg.br/api/v2/votacoes/{id_votacao}/votos'
+            resp_votos = requests.get(url_votos).json()
+            votos = resp_votos.get('dados', [])
+
+            voto_encontrado = next((v for v in votos if str(v['deputado_']['id']) == id_deputado), None)
+
+            if voto_encontrado:
+                # Tenta simplificar a descrição extraindo o projeto de lei
+                match = re.search(r'(Projeto de Lei(?: Complementar)?)\s*n[º°]?\s*(\d+).*?de\s*(\d{4})', descricao, re.IGNORECASE)
+                projeto_simplificado = descricao
+                link_projeto = None
+                
+                if match:
+                    tipo_texto = match.group(1)
+                    numero = match.group(2)
+                    ano = match.group(3)
+                    projeto_simplificado = f'{tipo_texto} {numero}/{ano}'
+                    
+                    # Monta o link para o site da Câmara
+                    link_projeto = f'https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao={votacao.get("idProposicaoObjeto")}'
+
+                votos_do_deputado.append({
+                    'id': id_votacao,
+                    'descricao_original': descricao,
+                    'projeto_simplificado': projeto_simplificado,
+                    'link_projeto': link_projeto,
+                    'data': votacao.get('dataHoraRegistro', '').split('T')[0],
+                    'voto': voto_encontrado.get('voto', 'Não registrado')
+                })
+
+        return jsonify({'votacoes': votos_do_deputado})
+
+    except Exception as e:
+        return jsonify({'erro': str(e)}), 500
+
+# ==========================================
+# ROTA DE DETALHES DA PROPOSIÇÃO (NOVA)
+# ==========================================
+@app.route('/proposicao/<id_proposicao>')
+def detalhes_proposicao(id_proposicao):
+    try:
+        url_prop = f'https://dadosabertos.camara.leg.br/api/v2/proposicoes/{id_proposicao}'
+        resp_prop = requests.get(url_prop).json()
+        dados_prop = resp_prop.get('dados', {})
+
+        return jsonify({
+            'id': id_proposicao,
+            'ementa': dados_prop.get('ementa', 'Ementa não disponível'),
+            'link_oficial': f'https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao={id_proposicao}'
+        })
+    except Exception as e:
+        return jsonify({'erro': str(e)}), 500
+
+if __name__ == '__main__':
+    app.run(debug=True)
