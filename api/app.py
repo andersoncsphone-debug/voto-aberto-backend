@@ -24,11 +24,7 @@ def buscar_gastos(id_deputado):
 
     todas_as_despesas = []
     resumo_mensal = defaultdict(float)
-<<<<<<< HEAD
     anos_historicos = set()
-=======
-    anos_historicos = set() # Guarda todos os anos que ele teve gastos
->>>>>>> fcf608d57c44e51641207efb7e554e7ebdd89ef1
 
     for arquivo in arquivos:
         try:
@@ -36,14 +32,8 @@ def buscar_gastos(id_deputado):
                 dados = json.load(f)
                 for g in dados.get('dados', []):
                     ano = int(g.get('ano'))
-<<<<<<< HEAD
                     anos_historicos.add(ano)
                     
-=======
-                    anos_historicos.add(ano) # Adiciona o ano ao histórico geral
-                    
-                    # Se um filtro de mandato foi enviado, só processa se estiver dentro dele
->>>>>>> fcf608d57c44e51641207efb7e554e7ebdd89ef1
                     if ano_inicio and ano_fim:
                         if ano < int(ano_inicio) or ano > int(ano_fim):
                             continue
@@ -73,7 +63,6 @@ def buscar_gastos(id_deputado):
         "media_mensal": media,
         "despesas": todas_as_despesas,
         "resumo_mensal": resumo_mensal,
-<<<<<<< HEAD
         "anos_historicos": sorted(list(anos_historicos))
     })
 
@@ -83,7 +72,6 @@ def buscar_gastos(id_deputado):
 # ==========================================
 @app.route('/votacoes/<id_deputado>')
 def buscar_votacoes(id_deputado):
-    # Verifica se o arquivo específico daquele deputado existe
     caminho_arquivo = os.path.join('dados', 'votacoes_por_politico', f'votacoes_{id_deputado}.json')
     
     if not os.path.exists(caminho_arquivo):
@@ -93,7 +81,6 @@ def buscar_votacoes(id_deputado):
         with open(caminho_arquivo, 'r', encoding='utf-8') as f:
             dados = json.load(f)
             
-            # Opcional: Filtro por ano, caso o app queira buscar um mandato específico
             ano_inicio = request.args.get('ano_inicio')
             ano_fim = request.args.get('ano_fim')
             
@@ -119,9 +106,4 @@ def buscar_votacoes(id_deputado):
 
 
 if __name__ == '__main__':
-    # O host 0.0.0.0 permite que o app Flutter acesse a API se estiverem na mesma rede local
     app.run(host='0.0.0.0', port=5000, debug=True)
-=======
-        "anos_historicos": sorted(list(anos_historicos)) # Envia todos os anos para os botões
-    })
->>>>>>> fcf608d57c44e51641207efb7e554e7ebdd89ef1
