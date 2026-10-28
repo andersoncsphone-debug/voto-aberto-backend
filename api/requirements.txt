@@ -3,8 +3,3 @@ gunicorn==21.2.0
 Flask-Cors==4.0.0
 requests==2.31.0
 pandas
-HEAD
-requests
-
-requests
- fcf608d57c44e51641207efb7e554e7ebdd89ef1
