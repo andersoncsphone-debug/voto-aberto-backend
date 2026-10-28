@@ -1,0 +1,38 @@
+{
+  "dados": [
+    {
+      "idVotacao": "1526944-127",
+      "uriVotacao": "https://dadosabertos.camara.leg.br/api/v2/votacoes/1526944-127",
+      "dataHoraVoto": "2015-12-15T19:19:49",
+      "voto": "Sim",
+      "deputado_id": 193069,
+      "deputado_uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/193069",
+      "deputado_nome": "Nelson Nahim",
+      "deputado_siglaPartido": "PSD",
+      "deputado_uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36834",
+      "deputado_siglaUf": "RJ",
+      "deputado_idLegislatura": 55,
+      "deputado_urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/193069.jpg",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/1526944-127",
+      "data": "2015-12-15",
+      "dataHoraRegistro": "2015-12-15T19:24:31",
+      "idOrgao": 180,
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+      "siglaOrgao": "PLEN",
+      "idEvento": 42810,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/42810",
+      "aprovacao": 1,
+      "votosSim": 394,
+      "votosNao": 4,
+      "votosOutros": 10,
+      "descricao": "Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 74 de 2015, ressalvado o destaque. Sim: 394; não: 4; total: 398.",
+      "ultimaAberturaVotacao_dataHoraRegistro": "2015-12-15T18:52:50",
+      "ultimaAberturaVotacao_descricao": "Votação em segundo turno.",
+      "ultimaApresentacaoProposicao_dataHoraRegistro": "2015-06-25T15:18:24",
+      "ultimaApresentacaoProposicao_descricao": "Apresentação da Proposta de Emenda à Constituição n. 74/2015, pelos Deputados Carlos Sampaio (PSDB-SP) e outros, que: \"Acrescenta parágrafos ao artigo 100 da Constituição Federal, dispondo sobre o regime de pagamento de débitos públicos decorrentes de condenações judiciais, e acrescenta disposições ao Ato das Disposições Constitucionais Transitórias, instituindo regime especial de pagamento para os casos em mora\".",
+      "ultimaApresentacaoProposicao_idProposicao": 0,
+      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ano": 2015
+    }
+  ]
+}

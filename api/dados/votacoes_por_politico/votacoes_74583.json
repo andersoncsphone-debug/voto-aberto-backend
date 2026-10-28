@@ -1,0 +1,38 @@
+{
+  "dados": [
+    {
+      "idVotacao": "1548586-161",
+      "uriVotacao": "https://dadosabertos.camara.leg.br/api/v2/votacoes/1548586-161",
+      "dataHoraVoto": "2026-09-29T16:28:08",
+      "voto": "Sim",
+      "deputado_id": 74583,
+      "deputado_uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74583",
+      "deputado_nome": "Hélio Costa",
+      "deputado_siglaPartido": "PFL",
+      "deputado_uriPartido": "https://dadosabertos.camara.leg.br/api/v2/partidos/36790",
+      "deputado_siglaUf": NaN,
+      "deputado_idLegislatura": 57,
+      "deputado_urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74583.jpg",
+      "uri": "https://dadosabertos.camara.leg.br/api/v2/votacoes/1548586-161",
+      "data": "2019-12-11",
+      "dataHoraRegistro": "2026-09-29T16:28:08",
+      "idOrgao": 2016,
+      "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/2016",
+      "siglaOrgao": "CVT",
+      "idEvento": 59073,
+      "uriEvento": "https://dadosabertos.camara.leg.br/api/v2/eventos/59073",
+      "aprovacao": 1.0,
+      "votosSim": 46,
+      "votosNao": 0,
+      "votosOutros": 0,
+      "descricao": "Aprovado o Requerimento de Adiamento de Votação pelo prazo de uma sessão.",
+      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
+      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": "2019-12-02T14:49:37",
+      "ultimaApresentacaoProposicao_descricao": "Parecer às emendas apresentadas ao Substitutivo do Relator, Dep. Eli Corrêa Filho (DEM-SP), pela aprovação deste, com substitutivo (PRL 3 CVT), e pela rejeição da Emenda ao Substitutivo 1 ao SBT 1 CVT, e da Emenda ao Substitutivo 2 ao SBT 1 CVT.",
+      "ultimaApresentacaoProposicao_idProposicao": 2231424,
+      "ultimaApresentacaoProposicao_uriProposicao": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2231424",
+      "ano": 2019
+    }
+  ]
+}
