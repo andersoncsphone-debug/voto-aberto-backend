@@ -507,7 +507,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2010-05-26T19:11:23",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento n. 6933/2010, pelo Deputado Fábio Souto (DEM-BA), que: \"Requer a inclusão do meu nome como subscritor ao Requerimento nº 6923/2010, que requer a inclusão na Ordem do Dia da PEC 446/09 (apensada: PEC 300/08)\".\r\nDCD de 27/05/10 PÁG 23982 COL 02.",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2010
     },
     {
@@ -876,12 +876,12 @@
       "votosNao": 6,
       "votosOutros": 42,
       "descricao": "Aprovado o Requerimento. Sim: 263; não: 6; abstenção: 4; total: 273.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2010-03-24T20:04:37",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento n. 6546/2010, dos Líderes, que requer \"nos termos regimentais urgência ao PL 1.481 de 2007\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2010
     },
     {
@@ -1216,12 +1216,12 @@
       "votosNao": 11,
       "votosOutros": 3,
       "descricao": "Aprovada o Requerimento de Urgência. Sim: 286; não: 11; abstenção: 01; total: 298.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2010-11-30T18:30:08",
       "ultimaApresentacaoProposicao_descricao": "Apresentação da Requerimento de Urgência (Art. 155 do RICD) n. 7513/2010, pelo Líderes, que: \"Com base no art. 155 do Regimento Interno, requeremos regime de urgência para a apreciação do PLP 352/2002\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2010
     },
     {
@@ -1250,12 +1250,12 @@
       "votosNao": 98,
       "votosOutros": 5,
       "descricao": "Aprovado o Requerimento de Urgência. Sim: 258; não: 98; abstenção: 3; total: 359.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2010-12-08T16:40:44",
       "ultimaApresentacaoProposicao_descricao": "Apresentação da Requerimento de Urgência (Art. 155 do RICD) n. 7546/2010, pelo Deputado Paulo Pereira da Silva (PDT-SP), que: \"Requerimento, para regime de urgência urgentíssima para tramitação do PL 2944-A, de 2004, que 'institui normas sobre jogos de bingo em todo o Território Nacional\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2010
     }
   ]

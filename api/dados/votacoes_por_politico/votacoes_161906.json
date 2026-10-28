@@ -298,12 +298,12 @@
       "votosNao": 18,
       "votosOutros": 3,
       "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 399; não: 18; abstenção: 1; total: 418.\r\nDCD 04/05/11 PÁG 21338 COL 02.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2010-12-01T22:06:48",
       "ultimaApresentacaoProposicao_descricao": "Apresentação da Requerimento de Urgência (Art. 155 do RICD) n. 7537/2010, pelo Deputado Sandro Mabel (PR-GO), que: \"Requer Urgência na apreciação do PL 1876/1999, de acordo com art. 155, do Regimento Interno da Câmara\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2011
     },
     {
@@ -332,8 +332,8 @@
       "votosNao": 339,
       "votosOutros": 18,
       "descricao": "Rejeitado o Requerimento. Sim:55; não: 339; abstenção:02; total: 396.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2011-05-05T17:01:06",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Projeto de Lei de Conversão n. 10/2011, pelo Deputado Andre Vargas (PT-PR), que: \"Altera a Lei nº 11.977, de 7 de julho de 2009, que dispõe sobre o Programa Minha Casa Minha Vida - PMCMV e a regularização fundiária de assentamentos localizados em áreas urbanas\".",
       "ultimaApresentacaoProposicao_idProposicao": 501038,
@@ -473,7 +473,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2011-05-05T09:46:02",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Projeto de Lei de Conversão n. 11/2011, pela Deputada Jandira Feghali (PCdoB-RJ), que: \"Altera a Lei nº 6.932/81, que dispõe sobre as atividades do médico-residente, institui o Regime Diferenciado de Contratações Públicas e prorroga o prazo de pagamento da Gratificação de Representação de Gabinete e da Gratificação Temporária para os servidores ou empregados requisitados pela Advocacia-Geral da União\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2011
     },
     {
@@ -604,12 +604,12 @@
       "votosNao": 24,
       "votosOutros": 53,
       "descricao": "Aprovado o Requerimento. Sim: 336; não: 24; abstenção: 03; total: 363.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2011-02-15T19:13:23",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento n. 343/2011, pelos Deputados Cândido Vaccarezza (PT-SP) e outros, que: \"Requer urgência para apreciação do Projeto de Decreto Legislativo nº 2.600/2010\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2011
     },
     {
@@ -643,7 +643,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2011-02-15T19:24:49",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento n. 349/2011, pelo Deputado Cândido Vaccarezza (PT-SP), que: \"Requerimento de , urgência para apreciação do PL 382/2011, de autoria do Executivo Federal, que  \"Dispõe sobre o valor do salário mínimo em 2011, a sua política de valorização de longo prazo, e disciplina a representação fiscal para fins penais nos casos em que houve parcelamento do crédito tributário\"\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2011
     },
     {
@@ -915,7 +915,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2011-07-05T17:53:36",
       "ultimaApresentacaoProposicao_descricao": "Parecer Reformulado em Plenário e entregue à Mesa pelo Relator, Dep. Maurício Trindade (PR-BA), pela Comissão Mista, que conclui pela aprovação desta Medida Provisória, na forma do Projeto de Lei de Conversão apresentado, com alterações.",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2011
     },
     {
@@ -944,12 +944,12 @@
       "votosNao": 0,
       "votosOutros": 0,
       "descricao": "Aprovado o Requerimento com 16 votos favoráveis.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2011-04-06T12:40:01",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento n. 27/2011, pelos Deputados Dr. Aluizio (PV-RJ) e outros, que: \"Requer a inclusão na Ordem do Dia do Requerimento nº 25 de 2011, para apreciação imediata, nos termos do art. 52, § 5º, do RICD.\r\n\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2011
     },
     {
@@ -1425,7 +1425,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2013-08-07T17:27:56",
       "ultimaApresentacaoProposicao_descricao": "Apresentação da Proposta de Emenda à Constituição n. 290/2013, pelas Deputadas Margarida Salomão (PT-MG) e outros, que: \"Altera e adiciona dispositivos na Constituição Federal para atualizar o tratamento das atividades de ciência, tecnologia e inovação\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2014
     },
     {
@@ -1454,12 +1454,12 @@
       "votosNao": 3,
       "votosOutros": 1,
       "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 310; não: 3; total: 313.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2013-10-22T19:28:00",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 8880/2013, pelos Deputados Anthony Garotinho, na qualidade de Líder do Bloco PR,PTdoB,PRP; José Guimarães, Líder do PT; Carlos Sampaio, Líder do PSDB; Ronaldo Caiado, Líder do DEM; André Moura, Líder do PSC; Beto Albuquerque, Líder do PSB; e Fernando Francischini, Líder do SDD, que requer, nos termos do art. 155 do Regimento Interno da Câmara dos Deputados, urgência para apreciação do Projeto de Lei Complementar nº 276, de 2002, do Poder Executivo, que \"altera a Lei Complementar nº 90, de 1º de outubro de 1997, que determina os casos em que forças estrangeiras possam transitar pelo território nacional ou nele permanecer temporariamente\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2014
     },
     {
@@ -1874,7 +1874,7 @@
       "idVotacao": "808884-20",
       "uriVotacao": "https://dadosabertos.camara.leg.br/api/v2/votacoes/808884-20",
       "dataHoraVoto": "2014-12-09T16:36:30",
-      "voto": NaN,
+      "voto": null,
       "deputado_id": 161906,
       "deputado_uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/161906",
       "deputado_nome": "Luiz Otavio",
@@ -1901,7 +1901,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2014-12-02T19:35:46",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Projeto de Decreto Legislativo de Ministro do TCU n. 1612/2014, pelo Senado Federal, que: \"Escolhe o Sr. Vital do Rêgo Filho para o cargo de Ministro do Tribunal de Contas da União, nos termos do art. 73, §2º, inciso II, da Constituição Federal e do art. 105, inciso II, da Lei nº 8.443, de 16 de julho de 1992.\r\n\r\nNOVA EMENTA: Escolhe o Sr. Vital do Rêgo Filho para o cargo de Ministro do Tribunal de Contas da União, nos termos do inciso II do § 2º do art. 73 da Constituição Federal e do inciso II do art. 105 da Lei nº 8.443, de 16 de julho de 1992\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2014
     }
   ]

@@ -128,12 +128,12 @@
       "votosNao": 9,
       "votosOutros": 25,
       "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 273; não: 9; abstenção: 1; total: 283.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2016-02-23T16:02:46",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 3986/2016, pelo Deputado Carlos Zarattini (PT-SP), e outros Líderes que: \"Requer regime de urgência na apreciação do Projeto de Lei nº 1202/2007, que Disciplina a atividade de \"lobby\" e a atuação dos grupos de pressão ou de interesse e assemelhados no âmbito dos órgãos e entidades da Administração Pública Federal, e dá outras providências\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2017
     },
     {
@@ -502,12 +502,12 @@
       "votosNao": 7,
       "votosOutros": 7,
       "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 293; não: 7; abstenção: 2; total: 302.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2017-05-16T20:00:42",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 6460/2017, pelo Deputado Ronaldo Lessa (PDT-AL), que: \"Requer regime de urgência para apreciação do PL 6699/2002\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2017
     },
     {
@@ -536,12 +536,12 @@
       "votosNao": 12,
       "votosOutros": 2,
       "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 323; não: 12; abstenção: 1; total: 336.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2017-05-25T16:09:30",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 6542/2017, pelo Deputado Vicente Candido (PT-SP), que: \"Requer regime de urgência na apreciação do Projeto de Lei nº 7.574/2017, que 'institui novo marco legal para o exercício da soberania popular direta, nos termos referidos no Artigo 14, incisos I a III, da Constituição Federal'\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2017
     },
     {
@@ -572,10 +572,10 @@
       "descricao": "Rejeitado o Requerimento. Sim: 7; não: 250; abstenção: 2; total: 259.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2017-10-31T13:56:59",
       "ultimaAberturaVotacao_descricao": "Votação do Requerimento do Dep. Alessandro Molon (REDE-RJ), que solicita votação nominal para o Requerimento de retirada de pauta desta Medida Provisória.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2017
     },
     {
@@ -606,10 +606,10 @@
       "descricao": "Rejeitado o Requerimento. Sim: 73; não: 200; abstenção: 1; total: 274.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2017-10-31T19:01:52",
       "ultimaAberturaVotacao_descricao": "Votação do Requerimento do Dep. Glauber Braga (PSOL-RJ), que solicita a retirada de pauta desta Medida Provisória.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2017
     },
     {
@@ -640,10 +640,10 @@
       "descricao": "Aprovada a Medida Provisória nº 785 de 2017, na forma do Projeto de Lei de Conversão nº 34 de 2017, ressalvados os destaques. Sim: 255; não: 105; abstenção: 1; total: 361.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2017-10-31T20:38:36",
       "ultimaAberturaVotacao_descricao": "Votação, quanto ao mérito, em turno único.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2017
     },
     {
@@ -674,10 +674,10 @@
       "descricao": "Rejeitada a Emenda nº 14. Sim: 145; não: 160; abstenção: 1; total: 306.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2017-11-21T17:48:21",
       "ultimaAberturaVotacao_descricao": "Votação da Emenda nº 14, objeto do destaque para votação em separado da bancada do PCdoB - DTQ 9.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2017
     },
     {
@@ -844,10 +844,10 @@
       "descricao": "Rejeitado o Requerimento. Sim: 85; não: 180; abstenção: 1; total: 266.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2017-11-29T18:46:54",
       "ultimaAberturaVotacao_descricao": "Votação do Requerimento da Dep. Jandira Feghali (PCdoB-RJ), que solicita votação nominal para o Requerimento de encerramento da discussão e do encaminhamento da votação.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2017
     },
     {
@@ -878,10 +878,10 @@
       "descricao": "Rejeitado o Requerimento. Sim: 39; não: 229; abstenção: 2; total: 270.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2017-11-29T20:09:25",
       "ultimaAberturaVotacao_descricao": "Votação do Requerimento dos Srs. Líderes que solicita adiamento da votação por uma sessão.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2017
     },
     {
@@ -944,12 +944,12 @@
       "votosNao": 9,
       "votosOutros": 2,
       "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 299; não: 9; abstenção: 1; total: 309.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2017-11-21T17:40:33",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 7704/2017, pelo Deputado Evandro Gussi (PV-SP), que: \"Com base no art. 155 do Regimento Interno, requeremos regime de urgência para a apreciação do PL 9.086/2017\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2017
     },
     {
@@ -978,12 +978,12 @@
       "votosNao": 29,
       "votosOutros": 18,
       "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 325; não: 29; abstenção: 2; total: 356.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2017-11-28T21:38:03",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 7790/2017, pelo Líderes, que: \"Requer regime de urgência para a apreciação do Projeto de Lei n. 9.206, de 2017, que 'Institui o Programa de Regularização Tributária Rural junto à Secretaria da Receita Federal e à Procuradoria-Geral da Fazenda Nacional'\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2017
     },
     {
@@ -1046,12 +1046,12 @@
       "votosNao": 4,
       "votosOutros": 6,
       "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 317; não: 4; total: 321.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2017-12-05T11:10:51",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 7828/2017, pelo Deputado Arthur Lira (PP-AL), que: \"Requer regime de urgência para apreciação do Projeto de Lei n° 9.247, de 2017, que 'Autroriza o Conselho Curador do Fundo de Garantia do Tempo de Serviço - FGTS a estabelecer, por resolução, a contratação de Instrumento de Dívida Subordinada, com caráter de perpetuidade, nos termos da regulamentação do Conselho Monetário Nacional, com o agente finceiro CAIXA.'\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2017
     },
     {
@@ -1216,8 +1216,8 @@
       "votosNao": 61,
       "votosOutros": 1,
       "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 357; não: 61; total: 418.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2014-05-30T11:04:42",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Inclusão na Ordem do Dia n. 10349/2014, pelo Deputado Damião Feliciano (PDT-PB), que: \"Requer a votação do Requerimento de Urgência nº 8130/13 para apreciação do Projeto de Lei nº 4.47/-B, de 2012.\r\n\r\n\".",
       "ultimaApresentacaoProposicao_idProposicao": 617681,
@@ -1255,7 +1255,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2018-02-16T15:59:10",
       "ultimaApresentacaoProposicao_descricao": "Apresentação da Mensagem n. 80/2018, pelo Poder Executivo, que: \"Submete à apreciação do Congresso Nacional o texto do decreto que 'Decreta intervenção federal no Estado do Rio de Janeiro com o objetivo de pôr termo ao grave comprometimento da ordem pública'.\r\n\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2018
     },
     {
@@ -1289,7 +1289,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2018-02-16T15:59:10",
       "ultimaApresentacaoProposicao_descricao": "Apresentação da Mensagem n. 80/2018, pelo Poder Executivo, que: \"Submete à apreciação do Congresso Nacional o texto do decreto que 'Decreta intervenção federal no Estado do Rio de Janeiro com o objetivo de pôr termo ao grave comprometimento da ordem pública'.\r\n\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2018
     },
     {
@@ -1323,7 +1323,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2018-02-19T22:59:19",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Projeto de Decreto Legislativo n. 886/2018, pela Comissão de Constituição e Justiça e de Cidadania, que: \"Aprova a intervenção federal no Estado do Rio de Janeiro nos termos do Decreto Presidencial nº 9.288, de 16 de fevereiro de 2018, com o objetivo de pôr termo ao grave comprometimento da ordem pública.\r\n\r\nNOVA EMENTA: Aprova o Decreto nº 9.288, de 16 de fevereiro de 2018, que 'Decreta intervenção federal no Estado do Rio de Janeiro com o objetivo de pôr termo ao grave comprometimento da ordem pública'\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2018
     },
     {
@@ -1357,7 +1357,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2018-02-19T22:59:19",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Projeto de Decreto Legislativo n. 886/2018, pela Comissão de Constituição e Justiça e de Cidadania, que: \"Aprova a intervenção federal no Estado do Rio de Janeiro nos termos do Decreto Presidencial nº 9.288, de 16 de fevereiro de 2018, com o objetivo de pôr termo ao grave comprometimento da ordem pública.\r\n\r\nNOVA EMENTA: Aprova o Decreto nº 9.288, de 16 de fevereiro de 2018, que 'Decreta intervenção federal no Estado do Rio de Janeiro com o objetivo de pôr termo ao grave comprometimento da ordem pública'\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2018
     },
     {
@@ -1391,7 +1391,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2018-02-19T22:59:19",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Projeto de Decreto Legislativo n. 886/2018, pela Comissão de Constituição e Justiça e de Cidadania, que: \"Aprova a intervenção federal no Estado do Rio de Janeiro nos termos do Decreto Presidencial nº 9.288, de 16 de fevereiro de 2018, com o objetivo de pôr termo ao grave comprometimento da ordem pública.\r\n\r\nNOVA EMENTA: Aprova o Decreto nº 9.288, de 16 de fevereiro de 2018, que 'Decreta intervenção federal no Estado do Rio de Janeiro com o objetivo de pôr termo ao grave comprometimento da ordem pública'\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2018
     },
     {
@@ -1425,7 +1425,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2018-02-19T22:59:19",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Projeto de Decreto Legislativo n. 886/2018, pela Comissão de Constituição e Justiça e de Cidadania, que: \"Aprova a intervenção federal no Estado do Rio de Janeiro nos termos do Decreto Presidencial nº 9.288, de 16 de fevereiro de 2018, com o objetivo de pôr termo ao grave comprometimento da ordem pública.\r\n\r\nNOVA EMENTA: Aprova o Decreto nº 9.288, de 16 de fevereiro de 2018, que 'Decreta intervenção federal no Estado do Rio de Janeiro com o objetivo de pôr termo ao grave comprometimento da ordem pública'\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2018
     }
   ]

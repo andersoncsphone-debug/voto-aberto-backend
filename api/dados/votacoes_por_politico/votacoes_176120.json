@@ -26,8 +26,8 @@
       "votosNao": 105,
       "votosOutros": 3,
       "descricao": "Aprovado o Requerimento. Sim: 252; não: 105; abstenção: 01; total: 358. *** Passa-se à apreciação da PEC nº 358/2013.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2014-02-13T15:44:58",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento n. 9509/2014, pelo Deputado João Campos (PSDB-GO), que: \"Requer inclusão na Ordem do Dia da PEC nº 471 de 2005 de minha autoria, que Dá nova redação ao parágrafo 3º do art. 236 da Constituição Federal. Estabelece a efetivação para os atuais responsáveis e substitutos pelos serviços notariais, investidos na forma da lei. Altera a Constituição Federal de 1988. Conhecida como \"PEC dos Cartórios\"\".",
       "ultimaApresentacaoProposicao_idProposicao": 606265,
@@ -269,7 +269,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2014-11-11T17:06:56",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Reconsideração nº 10768/2014, pelo Deputado Eduardo Sciarra, que \"Requer reconsideração ao Presidente da Câmara dos Deputados, relativo aos Requerimentos 10.101 e 10.102, de 2014.",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2014
     },
     {
@@ -303,7 +303,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2014-11-11T17:06:56",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Reconsideração nº 10768/2014, pelo Deputado Eduardo Sciarra, que \"Requer reconsideração ao Presidente da Câmara dos Deputados, relativo aos Requerimentos 10.101 e 10.102, de 2014.",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2014
     },
     {
@@ -745,7 +745,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2013-08-07T17:27:56",
       "ultimaApresentacaoProposicao_descricao": "Apresentação da Proposta de Emenda à Constituição n. 290/2013, pelas Deputadas Margarida Salomão (PT-MG) e outros, que: \"Altera e adiciona dispositivos na Constituição Federal para atualizar o tratamento das atividades de ciência, tecnologia e inovação\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2014
     },
     {
@@ -779,7 +779,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2013-08-07T17:27:56",
       "ultimaApresentacaoProposicao_descricao": "Apresentação da Proposta de Emenda à Constituição n. 290/2013, pelas Deputadas Margarida Salomão (PT-MG) e outros, que: \"Altera e adiciona dispositivos na Constituição Federal para atualizar o tratamento das atividades de ciência, tecnologia e inovação\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2014
     },
     {
@@ -1357,7 +1357,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2014-02-18T15:44:10",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento n. 9534/2014, pelos Deputados Antonio Imbassahy (PSDB-BA) e outros, que: \"Requer a criação de Comissão Externa Temporária para acompanhar as investigações efetuadas pelo Openbaar Ministerie, em Amsterdam, Holanda, acerca das operações e procedimentos no Brasil da empresa SBM Offshore, cuja sede situa-se naquele País, e que envolvem possíveis práticas de suborno.\r\n\r\n\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2014
     },
     {
@@ -1391,7 +1391,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2014-02-18T15:44:10",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento n. 9534/2014, pelos Deputados Antonio Imbassahy (PSDB-BA) e outros, que: \"Requer a criação de Comissão Externa Temporária para acompanhar as investigações efetuadas pelo Openbaar Ministerie, em Amsterdam, Holanda, acerca das operações e procedimentos no Brasil da empresa SBM Offshore, cuja sede situa-se naquele País, e que envolvem possíveis práticas de suborno.\r\n\r\n\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2014
     },
     {
@@ -1425,14 +1425,14 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2014-02-18T15:44:10",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento n. 9534/2014, pelos Deputados Antonio Imbassahy (PSDB-BA) e outros, que: \"Requer a criação de Comissão Externa Temporária para acompanhar as investigações efetuadas pelo Openbaar Ministerie, em Amsterdam, Holanda, acerca das operações e procedimentos no Brasil da empresa SBM Offshore, cuja sede situa-se naquele País, e que envolvem possíveis práticas de suborno.\r\n\r\n\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2014
     },
     {
       "idVotacao": "606409-4",
       "uriVotacao": "https://dadosabertos.camara.leg.br/api/v2/votacoes/606409-4",
       "dataHoraVoto": "2014-02-18T18:11:53",
-      "voto": NaN,
+      "voto": null,
       "deputado_id": 176120,
       "deputado_uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/176120",
       "deputado_nome": "Gustavo Petta",
@@ -1459,7 +1459,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2014-02-18T16:44:03",
       "ultimaApresentacaoProposicao_descricao": "Apresentação da Objeto de Deliberação n. 13/2014, pela Mesa Diretora da Câmara dos Deputados, que: \"eleição para membro do conselho nacional de justiça\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2014
     },
     {
@@ -1534,7 +1534,7 @@
       "idVotacao": "613950-21",
       "uriVotacao": "https://dadosabertos.camara.leg.br/api/v2/votacoes/613950-21",
       "dataHoraVoto": "2014-07-15T17:07:41",
-      "voto": NaN,
+      "voto": null,
       "deputado_id": 176120,
       "deputado_uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/176120",
       "deputado_nome": "Gustavo Petta",
@@ -1561,7 +1561,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2014-04-30T17:56:58",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Projeto de Decreto Legislativo de Ministro do TCU n. 1472/2014, pelo Senado Federal, que: \"Escolhe o Senhor Bruno Dantas Nascimento para o cargo de Ministro do Tribunal de Contas da União, nos termos do art. 73, § 2º, inciso II, da Constituição Federal, e art. 105, inciso II, da Lei nº 8.443, de 1992\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2014
     },
     {
@@ -1726,12 +1726,12 @@
       "votosNao": 54,
       "votosOutros": 33,
       "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 294; não: 54; abstenções: 3; total: 351.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2014-07-15T22:38:30",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 10487/2014, pelos Srs. Mendonça Filho, Líder do DEM; Rubens Bueno, Líder do PPS; Givaldo Carimbão, na qualidade de Líder do Bloco PP,PROS; André Moura, Líder do PSC; Lincoln Portela, na qualidade de Líder do Bloco PR,PTdoB,PRP; Arnaldo Faria de Sá, na qualidade de Líder do PTB; João Dado, na qualidade de Líder do SD; Moreira Mendes, Líder do PSD; Eurico Júnior, na qualidade de Líder do PV; Félix Júnior, Líder do PDT; Antonio Imbassahy, Líder do PSDB; e Beto Albuquerque, Líder do PSB que: \"Requer urgência, nos termos do art. 155, do Regimento Interno da Câmara dos Deputados, para apreciação do PDC 1.491/2014 que susta a aplicação do Decreto nº 8.243, de 23 de maio de 2014, que institui a Política Nacional de Participação Social - PNPS e o Sistema Nacional de Participação Social - SNPS, e dá outras providências\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2014
     },
     {
@@ -1874,7 +1874,7 @@
       "idVotacao": "808884-20",
       "uriVotacao": "https://dadosabertos.camara.leg.br/api/v2/votacoes/808884-20",
       "dataHoraVoto": "2014-12-09T17:06:16",
-      "voto": NaN,
+      "voto": null,
       "deputado_id": 176120,
       "deputado_uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/176120",
       "deputado_nome": "Gustavo Petta",
@@ -1901,7 +1901,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2014-12-02T19:35:46",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Projeto de Decreto Legislativo de Ministro do TCU n. 1612/2014, pelo Senado Federal, que: \"Escolhe o Sr. Vital do Rêgo Filho para o cargo de Ministro do Tribunal de Contas da União, nos termos do art. 73, §2º, inciso II, da Constituição Federal e do art. 105, inciso II, da Lei nº 8.443, de 16 de julho de 1992.\r\n\r\nNOVA EMENTA: Escolhe o Sr. Vital do Rêgo Filho para o cargo de Ministro do Tribunal de Contas da União, nos termos do inciso II do § 2º do art. 73 da Constituição Federal e do inciso II do art. 105 da Lei nº 8.443, de 16 de julho de 1992\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2014
     }
   ]

@@ -842,12 +842,12 @@
       "votosNao": 10,
       "votosOutros": 1,
       "descricao": "Aprovado o Requerimento. Sim: 322; Não:10; Total: 332.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2016-05-03T19:40:02",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 4411/2016, pelo Deputado Rogério Rosso (PSD-DF), que: \"Requerimento de Urgência ao PL 364/2015, que \"altera a Lei nº 11.438, de 29 de dezembro 2006, que dispõe sobre incentivos e benefícios para fomentar as atividades de caráter desportivo e dá outras providências.\"\r\n\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2016
     },
     {
@@ -2000,10 +2000,10 @@
       "descricao": "Mantido o texto. Sim: 229; Não: 124; Abstenção: 1; Total: 354.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2016-12-13T18:13:47",
       "ultimaAberturaVotacao_descricao": "Votação do §11 e seus incisos, do artigo 36 da Lei 9.394 de 1996, com redação dada pelo artigo 4 do Projeto de Lei de Conversão nº 34 de 2016, objeto do destaque para votação em separado da bancada do PCdoB - DTQ 4.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2016
     },
     {
@@ -2034,10 +2034,10 @@
       "descricao": "Rejeitada a Emenda. Sim: 148; Não: 208: Total: 356.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2016-12-13T19:06:36",
       "ultimaAberturaVotacao_descricao": "Votação da Emenda nº 16, apresentada à Medida Provisória nº 746 de 2016, para que conste no artigo 4º do Projeto de Lei de Conversão nº 34 de 2016, objeto do destaque para votação em separado da bancada do PSOL- DTQ 5.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2016
     },
     {
@@ -2068,10 +2068,10 @@
       "descricao": "Aprovada a  Emenda n° 24. Sim: 324; Não: 5: Abstenção: 1; Total: 330.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2016-12-13T19:29:31",
       "ultimaAberturaVotacao_descricao": "Votação da Emenda nº 24, objeto do destaque para votação em separado da bancada do DEM- DTQ 26.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2016
     },
     {
@@ -2102,10 +2102,10 @@
       "descricao": "Mantido o texto. Sim: 190; Não: 86: Total: 276.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2016-12-13T20:06:42",
       "ultimaAberturaVotacao_descricao": "Votação do inciso IV do artigo 61 da Lei 9.394, constante do artigo 6 do Projeto de Lei de Conversão nº 34 de 2016, objeto do destaque para votação em separado da bancada do PT- DTQ 9.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2016
     },
     {
@@ -2136,10 +2136,10 @@
       "descricao": "Rejeitada a Emenda nº 183. Sim: 112; Não: 230; Total: 342.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2016-12-13T20:34:30",
       "ultimaAberturaVotacao_descricao": "Votação da Emenda nº 183, objeto do destaque para votação em separado da bancada do PDT- DTQ 6.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2016
     },
     {
@@ -2170,10 +2170,10 @@
       "descricao": "Aprovada a Medida Provisória nº 746 de 2016, na forma do Projeto de Lei de Conversão nº 34 de 2016, ressalvados os destaques. Sim: 263; não: 106; abstenções: 3; total: 372.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2016-12-07T21:38:33",
       "ultimaAberturaVotacao_descricao": "Votação, quanto ao mérito, em turno único.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2016
     },
     {
@@ -2204,10 +2204,10 @@
       "descricao": "Rejeitada a Emenda. Sim: 120; Não: 171; Total: 291.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2016-12-13T17:25:35",
       "ultimaAberturaVotacao_descricao": "Votação da Emenda nº 22, objeto do destaque para votação em separado da bancada do Bloco Parlamentar PTN, PTdoB e PSL- DTQ 23.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2016
     },
     {
@@ -2241,7 +2241,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2016-10-10T09:20:17",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento n. 5298/2016, pelo Deputado Andre Moura (PSC-SE), que: \"Requeremos, nos termos do parágrafo único, inciso 1 do artigo 150 do Regimento Interno da Câmara dos Deputados, a DISPENSA DE INTERSTÍCIO para inclusão do SUBSTITUTIVO oferecido à PROPOSTA DE EMENDA À CONSTITUIÇÃO N2 241, DE 2016, na pesente-Ordem do Dia.\r\n\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2016
     },
     {

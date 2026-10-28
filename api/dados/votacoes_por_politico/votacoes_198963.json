@@ -264,12 +264,12 @@
       "votosNao": 5,
       "votosOutros": 1,
       "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 291; não: 5; total: 296.\r\nDCD de 05/09/17, PÁG 17 COL 01",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2016-02-24T12:09:46",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 4009/2016, pelos Deputados Leonardo Monteiro (PT-MG) e outros Líderes, que: \"Requer a inclusão na Ordem do Dia, nos termos do art. 155 do Regimento Interno da Câmara dos Deputados, em regime de urgência, apreciação do Projeto de Lei complementar nº 76 de 2007 que modifica o art. 2º da Lei Complementar nº 125, de 2007, e visa inclusão de municípios de Minas Gerais na área de abrangência da Sudene\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2017
     },
     {
@@ -575,7 +575,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2017-09-21T14:31:14",
       "ultimaApresentacaoProposicao_descricao": "Apresentação da redação para o segundo turno de discussão e votação da Proposta de Emenda à Constituição nº 282, de 2016.",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2017
     },
     {
@@ -609,7 +609,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2017-09-21T14:31:14",
       "ultimaApresentacaoProposicao_descricao": "Apresentação da redação para o segundo turno de discussão e votação da Proposta de Emenda à Constituição nº 282, de 2016.",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2017
     },
     {
@@ -643,7 +643,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2017-09-21T14:31:14",
       "ultimaApresentacaoProposicao_descricao": "Apresentação da redação para o segundo turno de discussão e votação da Proposta de Emenda à Constituição nº 282, de 2016.",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2017
     },
     {
@@ -677,7 +677,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2017-09-21T14:31:14",
       "ultimaApresentacaoProposicao_descricao": "Apresentação da redação para o segundo turno de discussão e votação da Proposta de Emenda à Constituição nº 282, de 2016.",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2017
     },
     {
@@ -708,10 +708,10 @@
       "descricao": "Rejeitado o Requerimento. Sim: 9; não: 247; abstenção: 3; total: 259.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2017-08-01T18:04:17",
       "ultimaAberturaVotacao_descricao": "Votação do Requerimento do Dep. Alessandro Molon (REDE-SD), que solicita a retirada de pauta desta Medida Provisória.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2017
     },
     {
@@ -742,10 +742,10 @@
       "descricao": "Mantido o texto. Sim: 219; não: 111; abstenção: 2; total: 332.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2017-08-15T19:56:42",
       "ultimaAberturaVotacao_descricao": "Votação do trecho \"não se aplicando, quando se tratar de alienação fiduciária de imóvel, o disposto nos parágrafos 5º e 6º, do art. 27, da Lei 9.514, de 20 de novembro de 1997\", constante do art. 9º do Projeto de Lei de Conversão apresentado à Medida Provisória 775/17, objeto do destaque para votação em separado da bancada do PT - DTQ 11.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2017
     },
     {
@@ -776,10 +776,10 @@
       "descricao": "Aprovadas as Emendas do Senado Federal ao Projeto de Lei de Conversão nº 24, de 2017, ressalvados os destaques. Sim: 156; não: 106; abstenção: 1; total: 263.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2017-09-05T12:07:07",
       "ultimaAberturaVotacao_descricao": "Votação em turno único.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2017
     },
     {
@@ -810,10 +810,10 @@
       "descricao": "Rejeitado o Requerimento. Sim: 17; não: 239; abstenção: 1; total: 257.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2017-08-30T12:48:46",
       "ultimaAberturaVotacao_descricao": "Votação do Requerimento do Dep. Alessandro Molon (REDE-RJ), que solicita a retirada de pauta desta Medida Provisória.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2017
     },
     {
@@ -844,10 +844,10 @@
       "descricao": "Mantido o texto. Sim: 231; não: 23; abstenção: 3; total: 257.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2017-08-30T14:59:05",
       "ultimaAberturaVotacao_descricao": "Votação do art. 12 do Projeto de Lei de Conversão nº 27/17, apresentado à MPV 777/17, objeto do destaque para votação em separado da bancada do PT - DTQ 11.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2017
     },
     {
@@ -878,10 +878,10 @@
       "descricao": "Rejeitado o Requerimento. Sim: 38; não: 269; abstenção: 3; total: 310.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2017-08-23T20:52:17",
       "ultimaAberturaVotacao_descricao": "Votação do Requerimento da Dep. Alice Portugal (PCdoB-BA), que solicita a retirada de pauta desta Medida Provisória.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2017
     },
     {
@@ -912,10 +912,10 @@
       "descricao": "Aprovado o Requerimento. Sim: 235; não: 22; abstenção: 1; total: 258.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2017-08-23T22:51:09",
       "ultimaAberturaVotacao_descricao": "Votação do Requerimento dos Srs. Líderes que solicita o encerramento da discussão e do encaminhamento da votação.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2017
     },
     {
@@ -946,10 +946,10 @@
       "descricao": "Rejeitado o Requerimento. Sim: 18; não: 259; abstenção: 1; total: 278.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2017-08-23T23:10:09",
       "ultimaAberturaVotacao_descricao": "Votação do Requerimento da Dep. Alice Portugal, Líder do PCdoB, que solicita votação nominal do Requerimento de adiamento da votação por duas sessões.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2017
     },
     {
@@ -980,10 +980,10 @@
       "descricao": "Aprovado, em apreciação preliminar, o Parecer do Relator, na parte em que manifesta opinião favorável quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e de sua adequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN. Sim: 261; não: 31; abstenção: 1; total: 293.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2017-08-24T00:18:03",
       "ultimaAberturaVotacao_descricao": "Votação preliminar em turno único.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2017
     },
     {
@@ -1014,10 +1014,10 @@
       "descricao": "Aprovado o Requerimento. Sim: 224; não: 32; total: 256.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2017-08-24T00:52:30",
       "ultimaAberturaVotacao_descricao": "Votação do Requerimento do Dep. Rubens Pereira Júnior, na qualidade de Líder do PT, que solicita a votação em globo da admissibilidade dos destaques simples.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2017
     },
     {
@@ -1048,10 +1048,10 @@
       "descricao": "Inadimitidos os destaques simples : DTQ 7; DTQ 8 e DTQ 10. Sim: 28; não: 232; abstenção: 1; total: 261.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2017-08-24T01:17:06",
       "ultimaAberturaVotacao_descricao": "Votação, em globo, da admissibilidade dos destaques simples.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2017
     },
     {
@@ -1082,10 +1082,10 @@
       "descricao": "Rejeitado o Requerimento. Sim: 22; não: 232; abstenção: 2; total: 256.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2017-08-24T11:34:24",
       "ultimaAberturaVotacao_descricao": "Votação do Requerimento do Dep. Glauber Braga (PSOL-RJ), que solicita a retirada de pauta desta Medida Provisória.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2017
     },
     {
@@ -1114,12 +1114,12 @@
       "votosNao": 7,
       "votosOutros": 47,
       "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 332; não: 7; abstenção: 2; total: 341.\r\nDCD de 09/08/17 PÁG 131 COL 01.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2017-05-02T20:14:15",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 6368/2017, pelo Deputado Cleber Verde (PRB-MA), que: \"Com base no art. 155 do Regimento Interno, requeremos regime de urgência para a apreciação do PL nº 3.376/2015\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2017
     },
     {
@@ -1150,10 +1150,10 @@
       "descricao": "Aprovada a Emenda nº 25. Sim: 276: não: 100; abstenção: 1; total: 377.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2017-08-22T20:25:27",
       "ultimaAberturaVotacao_descricao": "Votação da Emenda nº 25, objeto do destaque para votação em separado da bancada do PT - DTQ 2.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2017
     },
     {
@@ -1184,10 +1184,10 @@
       "descricao": "Rejeitado o Requerimento. Sim: 12; não: 249; abstenção: 3; total: 264.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2017-09-12T19:43:02",
       "ultimaAberturaVotacao_descricao": "Votação do Requerimento da Dep. Erika Kokay, na qualidade de Líder do PT, que solicita adiamento da votação por duas sessões.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2017
     },
     {
@@ -1218,10 +1218,10 @@
       "descricao": "Aprovado o Requerimento. Sim: 270; não: 24; abstenção: 5; total: 299.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2017-09-12T21:12:04",
       "ultimaAberturaVotacao_descricao": "Votação do Requerimento do Dep. Rubens Pereira Júnior, na qualidade de Líder do PCdoB, que solicita a votação em globo da admissibilidade dos destaques simples.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2017
     },
     {
@@ -1252,10 +1252,10 @@
       "descricao": "Aprovada a Medida Provisória nº 780 de 2017, na forma do Projeto de Lei de Conversão nº 28 de 2017, ressalvados os destaques. Sim: 271; não: 50; abstenção: 4; total: 325.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2017-09-12T21:59:23",
       "ultimaAberturaVotacao_descricao": "Votação, quanto ao mérito, em turno único.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2017
     },
     {
@@ -1318,12 +1318,12 @@
       "votosNao": 0,
       "votosOutros": 7,
       "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 318; total: 318.\r\nDCD de 09/08/17 PÁG 15 COL 01",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2017-05-31T19:33:05",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 6636/2017, pelo Deputado Laudivio Carvalho (SD-MG), que: \"Requer Urgência para o Projeto de Lei nº 7606, de 2017, que 'Cria o Programa de Financiamento Preferencial às Instituições Filantrópicas e Sem Fins Lucrativos (Pro-Santas Casas) para atender instituições filantrópicas e sem fins lucrativos que participam de forma complementar do Sistema Único de Saúde (SUS).'\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2017
     },
     {
@@ -1728,10 +1728,10 @@
       "descricao": "Rejeitado o Requerimento. Sim: 7; não: 250; abstenção: 2; total: 259.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2017-10-31T13:56:59",
       "ultimaAberturaVotacao_descricao": "Votação do Requerimento do Dep. Alessandro Molon (REDE-RJ), que solicita votação nominal para o Requerimento de retirada de pauta desta Medida Provisória.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2017
     },
     {
@@ -1762,10 +1762,10 @@
       "descricao": "Rejeitado o Requerimento. Sim: 52; não: 205; abstenção: 4; total: 261.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2017-10-31T17:38:50",
       "ultimaAberturaVotacao_descricao": "Votação do Requerimento da Dep. Alice Portugal (PCdoB-BA), que solicita votação artigo por artigo.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2017
     },
     {
@@ -1796,10 +1796,10 @@
       "descricao": "Aprovada a Medida Provisória nº 785 de 2017, na forma do Projeto de Lei de Conversão nº 34 de 2017, ressalvados os destaques. Sim: 255; não: 105; abstenção: 1; total: 361.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2017-10-31T20:38:36",
       "ultimaAberturaVotacao_descricao": "Votação, quanto ao mérito, em turno único.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2017
     },
     {
@@ -1964,12 +1964,12 @@
       "votosNao": 197,
       "votosOutros": 1,
       "descricao": "Rejeitado o Requerimento de Urgência. Sim: 207; não: 197; total: 404.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2017-09-27T20:15:12",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 7339/2017, pelo Líderes, que: \"Com base no art. 155 do Regimento Interno, requeremos regime de urgência para a apreciação do PL nº 8.703, de 2017.\r\n\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2017
     },
     {
@@ -1998,12 +1998,12 @@
       "votosNao": 184,
       "votosOutros": 19,
       "descricao": "Aprovado o Requerimento de Urgência (Art. 154 do RICD). Sim: 248; não: 184; abstenção: 4; total: 436.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2017-10-03T18:54:18",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Urgência (Art. 154 do RICD) n. 7374/2017, pelo Deputado Carlos Zarattini (PT-SP), que: \"Requer que tramite sob o regime de urgência o PROJETO DE LEI 8.703/2017, oriundo do Senado Federal, que altera as Leis nºs 9.096, de 19 de setembro de 1995, e 9.504, de 30 de setembro de 1997, para instituir o Fundo Especial de Financiamento de Campanha (FEFC), extinguir a propaganda partidária no rádio e na televisão\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2017
     },
     {
@@ -2100,12 +2100,12 @@
       "votosNao": 80,
       "votosOutros": 54,
       "descricao": "Aprovado o Requerimento de Urgência (Art. 154 do RICD). Sim: 232; não: 80; abstenção: 2; total: 314.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2017-10-17T17:46:47",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Urgência (Art. 154 do RICD) n. 7459/2017, pelo Deputado Efraim Filho (DEM-PB), que: \"Requer Urgência para apreciação do Projeto de Lei Nº 8.843, de 2017\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2017
     },
     {

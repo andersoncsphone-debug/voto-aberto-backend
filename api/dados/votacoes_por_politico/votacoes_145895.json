@@ -570,12 +570,12 @@
       "votosNao": 14,
       "votosOutros": 1,
       "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 294; Não: 14; Total: 308.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2012-05-09T20:01:48",
       "ultimaApresentacaoProposicao_descricao": "Apresentação da Requerimento de Urgência (Art. 155 do RICD) n. 5231/2012, pelo Deputado Arthur Lira (PP-AL), que: \"Requer, nos termos do art. 155 do RICD, urgência para apreciação do Projeto de lei 3839/2012\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2012
     },
     {
@@ -604,12 +604,12 @@
       "votosNao": 120,
       "votosOutros": 1,
       "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 287; não: 120; total: 407.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2012-05-15T17:03:41",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento n. 5269/2012, pelos Deputados Jovair Arantes (PTB-GO) e outros, que: \"Requeremos a Vossa Excelência, nos termos do art. 155, combinado com o art. 117, XV, do Regimento Interno da Câmara dos Deputados, a INCLUSÃO NA PAULA DA ORDEM DO DIA do PDC 514/2011\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2012
     },
     {
@@ -1182,12 +1182,12 @@
       "votosNao": 14,
       "votosOutros": 21,
       "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD).Sim: 356; não: 14; abstenção: 4; total: 374.\r\nDCD de 21/03/13 PÁG 05882 COL 01.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2013-03-20T15:27:49",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 7126/2013, pelo Líderes, que: \"Requer, nos termos do art. 155 do RICD, urgência para apreciação do Projeto de Resolução n.178/2013, que 'Dispõe sobre a estrutura temporária da Liderança do Partido Social Democrático - PSD, criada pela Resolução nº 9, de 2011'\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2013
     },
     {
@@ -1216,12 +1216,12 @@
       "votosNao": 1,
       "votosOutros": 3,
       "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 324; não: 1; total: 325.\r\nDCD de 27/03/13 PÁG 06752 COL 01.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2013-03-26T13:01:42",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 7252/2013, pelo Líderes, que: \"Requer, com base no art. 155 do RICD, urgência na apreciação do PL 6.903/2006, que altera o inciso I do §1º ao art. 148 do Decreto-lei nº 2.848, de 7 de dezembro de 1940 - Código Penal\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2013
     },
     {
@@ -1296,7 +1296,7 @@
       "idVotacao": "582292-52",
       "uriVotacao": "https://dadosabertos.camara.leg.br/api/v2/votacoes/582292-52",
       "dataHoraVoto": "2013-08-28T20:35:10",
-      "voto": NaN,
+      "voto": null,
       "deputado_id": 145895,
       "deputado_uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/145895",
       "deputado_nome": "Gera Arruda",
@@ -1323,7 +1323,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2013-06-26T14:25:36",
       "ultimaApresentacaoProposicao_descricao": "Publicação Inicial no DCD de 27/6/2013.",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2013
     },
     {
@@ -1862,12 +1862,12 @@
       "votosNao": 130,
       "votosOutros": 7,
       "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 258; não: 130; abstenção: 1; total: 389.\r\nDCD de 02/10/13 PÁG 43982 COL 01.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2013-09-25T20:08:20",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 8696/2013, pelo Líderes, que: \"Requer com base no art. 155 do Regimento Interno, urgência para a apreciação do PL 6397/2013\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2013
     },
     {
@@ -1998,12 +1998,12 @@
       "votosNao": 97,
       "votosOutros": 9,
       "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 287; não: 97; abstenções: 6; total: 390.\r\nDCD 07/11/13 PÁG 52538 COL 02.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2013-11-05T11:59:11",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 8970/2013, pelo Deputado Eduardo Cunha (PMDB-RJ), que: \"Requer regime de urgência para apreciação de proposição.\r\n\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2013
     },
     {
@@ -2032,12 +2032,12 @@
       "votosNao": 18,
       "votosOutros": 4,
       "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 271; não: 18; abstenções: 3; total: 292.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2013-12-17T15:51:05",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 9261/2013, pelos Deputados Fernando Francischini (SDD-PR); Marcelo Castro, na qualidade de Líder do PMDB; Givaldo Carimbão, Líder do Bloco PP, PROS;  Eduardo Sciarra, Líder do PSD; Anthony Garotinho, Líder do Bloco PR,PTdoB,PRP; Glauber Braga, na qualidade de Líder do PSB; Ronaldo Caiado, Líder do DEM; André Moura, Líder do PSC; Alice Portugal, na qualidade de Líder do PCdoB; André Figueiredo, Líder do PDT; George Hilton, Líder do PRB; e Antonio Brito, na qualidade de Líder do PTB, que: \"Requer, nos termos do art. 155 do Regimento Interno da Câmara dos Deputados, urgência urgentíssima para apreciação do Projeto de Resolução nº 228/2013.",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2013
     }
   ]

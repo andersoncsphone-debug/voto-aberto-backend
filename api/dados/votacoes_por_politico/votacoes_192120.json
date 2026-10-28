@@ -65,7 +65,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2015-06-25T15:18:24",
       "ultimaApresentacaoProposicao_descricao": "Apresentação da Proposta de Emenda à Constituição n. 74/2015, pelos Deputados Carlos Sampaio (PSDB-SP) e outros, que: \"Acrescenta parágrafos ao artigo 100 da Constituição Federal, dispondo sobre o regime de pagamento de débitos públicos decorrentes de condenações judiciais, e acrescenta disposições ao Ato das Disposições Constitucionais Transitórias, instituindo regime especial de pagamento para os casos em mora\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2015
     },
     {
@@ -99,7 +99,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2015-06-25T15:18:24",
       "ultimaApresentacaoProposicao_descricao": "Apresentação da Proposta de Emenda à Constituição n. 74/2015, pelos Deputados Carlos Sampaio (PSDB-SP) e outros, que: \"Acrescenta parágrafos ao artigo 100 da Constituição Federal, dispondo sobre o regime de pagamento de débitos públicos decorrentes de condenações judiciais, e acrescenta disposições ao Ato das Disposições Constitucionais Transitórias, instituindo regime especial de pagamento para os casos em mora\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2015
     },
     {
@@ -133,7 +133,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2015-06-25T15:18:24",
       "ultimaApresentacaoProposicao_descricao": "Apresentação da Proposta de Emenda à Constituição n. 74/2015, pelos Deputados Carlos Sampaio (PSDB-SP) e outros, que: \"Acrescenta parágrafos ao artigo 100 da Constituição Federal, dispondo sobre o regime de pagamento de débitos públicos decorrentes de condenações judiciais, e acrescenta disposições ao Ato das Disposições Constitucionais Transitórias, instituindo regime especial de pagamento para os casos em mora\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2015
     },
     {
@@ -842,8 +842,8 @@
       "votosNao": 26,
       "votosOutros": 9,
       "descricao": "Aprovada, em segundo turno, a Proposta de Emenda à Constituição nº 11 de 2015. Sim: 384; não: 26; abstenção: 7; total:  417.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2015-12-21T14:58:34",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento n. 3803/2015, pelo Deputado Hissa Abrahão (PPS-AM), que: \"Requer inclusão na Ordem do Dia da Proposta de emenda à Constituição nº 11 de 2015, que \"Altera os arts. 92 e 111-A da Constituição Federal, para explicitar o Tribunal Superior do Trabalho como órgão do Poder Judiciário, alterar os requisitos para o provimento dos cargos de Ministros daquele Tribunal e modificar-lhe a competência\"\".",
       "ultimaApresentacaoProposicao_idProposicao": 2075981,
@@ -876,8 +876,8 @@
       "votosNao": 3,
       "votosOutros": 1,
       "descricao": "Aprovada, em primeiro turno, a Proposta de Emenda à Constituição nº 11 de 2015. Sim: 448; não: 3; total: 451.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2015-12-21T14:58:34",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento n. 3803/2015, pelo Deputado Hissa Abrahão (PPS-AM), que: \"Requer inclusão na Ordem do Dia da Proposta de emenda à Constituição nº 11 de 2015, que \"Altera os arts. 92 e 111-A da Constituição Federal, para explicitar o Tribunal Superior do Trabalho como órgão do Poder Judiciário, alterar os requisitos para o provimento dos cargos de Ministros daquele Tribunal e modificar-lhe a competência\"\".",
       "ultimaApresentacaoProposicao_idProposicao": 2075981,
@@ -944,12 +944,12 @@
       "votosNao": 173,
       "votosOutros": 1,
       "descricao": "Rejeitado o Requerimento. Sim: 213; Não: 173; Total: 386.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2015-09-08T18:26:21",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 2965/2015, pelos Deputados Carlos Sampaio, Líder do PSDB, e outros Líderes, que: \"Urgência para apreciação do PLP 392/2014, de autoria do deputado Toninho Pinheiro, que altera a Lei 4.320, de 17 de março de 1964, para prever a possibilidade de alteração da destinação de recursos transferidos aos Municípios nas condições que especifica\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2016
     },
     {
@@ -2032,12 +2032,12 @@
       "votosNao": 4,
       "votosOutros": 58,
       "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 268; não: 4; abstenção: 3; total: 275.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2016-03-01T20:41:12",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 4057/2016, pelo Deputado Carlos Henrique Gaguim (PMB-TO) e outros Líderes, que: \"Requer urgência para apreciação do Projeto de Lei nº 4073, de 2015.\r\n\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2016
     },
     {
@@ -2204,10 +2204,10 @@
       "descricao": "Eleitos os Deputados que irão compor a Comissão Especial destinada a dar parecer sobre a denúncia em desfavor da Presidente da República, Sra. Dilma Vana Rousseff, por Crime de Responsabilidade. \r\n\r\nSim: 433 votos. \r\nNão: 1 voto. \r\nTotal: 434 votos.\r\n\r\nRESULTADO:\r\n\r\nCHAPA ELEITA: CHAPA ÚNICA",
       "ultimaAberturaVotacao_dataHoraRegistro": "2016-03-17T15:39:57",
       "ultimaAberturaVotacao_descricao": "CHAPA ÚNICA:\r\nPMDB/PP/PTB/DEM/PRB/SD/PSC/PHS/PTN/PMN/PRP/PSDC/PEN/PRTB: Titulares: Aguinaldo Ribeiro (PP), Bacelar (PTN), Benito Gama (PTB), Eduardo Bolsonaro (PSC), Elmar Nascimento (DEM), Fernando Francischini (SD), Jerônimo Goergen(PP), Jhonatan de Jesus (PRB), João Marcelo Souza (PMDB), Jovair Arantes (PTB), Julio Lopes (PP), Junior Marreca (PEN), Leonardo Picciani (PMDB), Leonardo Quintão (PMDB), Lucio Vieira Lima (PMDB), Luiz Carlos Busato (PTB), Marcelo Aro (PHS), Marcelo Squassoni (PRB), Mauro Mariani (PMDB), Mendonça Filho (DEM), Osmar Terra (PMDB), Paulo Maluf (PP), Paulo Pereira da Silva (SD), Pr. Marco Feliciano (PSC), Roberto Britto(PP), Rodrigo Maia (DEM), Valtenir Pereira (PMDB), Washington Reis (PMDB). Suplentes: Alberto Filho (PMDB), Aluisio Mendes (PTN), André Fufuca (PP), Arnaldo Faria de Sá (PTB), Carlos Marun (PMDB), Cleber Verde (PRB), Elcione Barbalho (PMDB), Erivelton Santana (PSC), Fernando Monteiro (PP), Genecias Noronha (SD), Hildo Rocha (PMDB), Irmão Lazaro (PSC), Laudivio Carvalho (SD), Lelo Coimbra (PMDB), Luis Carlos Heinze (PP), Macedo (PP), Mandetta (DEM), Manoel Junior (PMDB), Marx Beltrão (PMDB), Moroni Torgan (DEM), Odelmo Leão (PP), Paes Landim (PTB), Pastor Eurico (PHS), Pedro Fernandes (PTB), Professor Victório Galli (PSC), Ronaldo Martins (PRB), Vitor Valim (PMDB), (Deputado do PT/PSD/PR/PROS/PCdoB ocupa a vaga).\r\n\r\nPT/PSD/PR/PROS/PCdoB: Titulares: Arlindo Chinaglia (PT), Edio Lopes (PR), Eros Biondini (PROS), Henrique Fontana (PT), Jandira Feghali (PCdoB), José Mentor (PT), José Rocha (PR), Júlio Cesar (PSD), Marcos Montes (PSD), Maurício Quintella Lessa (PR), Paulo Magalhães (PSD), Paulo Teixeira (PT), Pepe Vargas (PT), Rogério Rosso (PSD), Ronaldo Fonseca (PROS), Vicente Candido (PT), Wadih Damous (PT), Zé Geraldo (PT), Zenaide Maia (PR). Suplentes: Aelton Freitas (PR), Assis Carvalho (PT), Benedita da Silva (PT), Bohn Gass (PT), Carlos Zarattini (PT), Evandro Roman (PSD), Fernando Torres (PSD), Francisco Floriano (PR) na vaga do PMDB/PP/PTB/DEM/PRB/SD/PSC/PHS/PTN/PMN/PRP/PSDC/PEN/PRTB,  Gorete Pereira (PR), Goulart (PSD), Irajá Abreu (PSD), João Carlos Bacelar (PR), Luiz Sérgio (PT), Odorico Monteiro (PROS), Orlando Silva (PCdoB), Padre João (PT), Paulo Pimenta (PT), Toninho Wandscheer (PROS), Valmir Assunção (PT), Wellington Roberto (PR).\r\n\r\nPSDB/PSB/PPS/PV: Titulares: Alex Manente (PPS), Bebeto (PSB), Bruno Covas (PSDB), Carlos Sampaio (PSDB), Danilo Forte (PSB), Evair de Melo (PV), Fernando Coelho Filho (PSB), Jutahy Junior (PSDB), Nilson Leitão (PSDB), Paulo Abi-Ackel (PSDB), Shéridan (PSDB), Tadeu Alencar (PSB). Suplentes: Bruno Araújo (PSDB), Fábio Sousa (PSDB), Izalci (PSDB), JHC (PSB), João Fernando Coutinho (PSB), Jose Stédile (PSB), Leandre (PV), Mariana Carvalho (PSDB), Paulo Foletto (PSB), Rocha (PSDB), Rogério Marinho (PSDB), Sandro Alex (PPS). \r\n\r\nPDT: Titulares: Flavio Nogueira (PDT), Weverton Rocha (PDT). Suplentes: Flávia Morais (PDT), Roberto Góes (PDT).\r\n\r\nPSOL: Titular: Chico Alencar (PSOL). Suplente: Glauber Braga (PSOL)\r\n\r\nPTdoB: Titular: Silvio Costa (PTdoB). Suplente: Franklin Lima (PTdoB)\r\n\r\nREDE: Titular: Aliel Machado (REDE). Suplente: Alessandro Molon (REDE)\r\n\r\nPMB: Titular: Weliton Prado (PMB). Suplente: Fábio Ramalho (PMB)",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2016
     },
     {
@@ -2241,7 +2241,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2016-06-17T13:41:08",
       "ultimaApresentacaoProposicao_descricao": "Apresentação da Mensagem n. 620/2016, pelo Poder Executivo, que: \"Submete à deliberação do Congresso Nacional o texto da Medida Provisória que ' Altera a Lei nº 9.615, de 24 de março de 1998, que institui normas gerais sobre desporto, para dispor sobre o controle de dopagem, a Lei nº 12.780, de 9 de janeiro de 2013, que dispõe sobre medidas tributárias referentes à realização, no Brasil, dos Jogos Olímpicos de 2016 e dos Jogos Paraolímpicos de 2016, e dá outras providências\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2016
     },
     {
@@ -2746,8 +2746,8 @@
       "votosNao": 0,
       "votosOutros": 0,
       "descricao": "Aprovado o Parecer com Complementação de Voto, apresentaram votos em separado os Deputados Sergio Vidigal, Félix Mendonça Júnior, Fausto Pinato e Fausto Pinato, apresentou declaração de voto o Deputado Paulo Teixeira.Retirados os destaques nº 2 e 3, da Bancada do PSDB.\r\n\r\nDestaque nº 5, da Bancada do PT, para votação em separado do título II (art. 7º ao 13). Rejeitada a matéria destacada, em votação nominal, com 16 votos \"não\" e 12 votos \"sim\". Foi alterado o texto do Relator.\r\nDestaque nº 4, da Bancada do PT, para votação em separado do inciso II, do parágrafo único do art. 116, do art. 90 do substitutivo. Aprovada a matéria destacada, em votação nominal, com 25 votos \"sim\" e 1 voto \"não\". Foi mantido o texto do Relator.\r\nDestaque nº 1, da Bancada do PT, para votação em separado do art. 580-A constante do art. 95.  Rejeitada a matéria destacada, em votação nominal, com 16 votos \"não\" e 13 votos \"sim\". Foi alterado o texto do Relator.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2016-11-23T20:28:11",
       "ultimaApresentacaoProposicao_descricao": "Parecer com Complementação de Voto, Dep. Onyx Lorenzoni (DEM-RS), pela constitucionalidade, juridicidade e técnica legislativa; pela adequação financeira e orçamentária; e, no mérito, pela aprovação deste, com substitutivo.",
       "ultimaApresentacaoProposicao_idProposicao": 2118250,
@@ -3256,12 +3256,12 @@
       "votosNao": 65,
       "votosOutros": 4,
       "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 312; não: 65; abstenção: 2; total: 379.\r\nDCD de 25/11/16 PÁG 51 COL 01.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2016-03-30T19:34:33",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 4249/2016, pelo Deputado Ricardo Izar (PP-SP), que: \"Requer, nos termos do art. 155 do RICD, urgência para apreciação do Projeto de Lei n. 4.850, de 2016, que \"Estabelece medidas contra a corrupção e demais crimes contra o patrimônio público e combate o enriquecimento ilícito de agentes públicos.\"\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2016
     },
     {
@@ -3290,12 +3290,12 @@
       "votosNao": 89,
       "votosOutros": 6,
       "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 316; não: 89; abstenção: 5; total: 410.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2016-05-03T21:19:19",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 4415/2016, pelo Deputado Ronaldo Fonseca (PROS-DF), que: \"Requer regime de urgência para apreciação de proposição\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2016
     },
     {
@@ -3363,7 +3363,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2016-08-12T12:54:00",
       "ultimaApresentacaoProposicao_descricao": "Recebida a Mensagem nº 270/2016, do Poder Executivo, que informa ao Congresso Nacional que a Medida Provisória nº 726, de 2016, foi retificada no Diário Oficial da União de 19 de maio de 2016.",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2016
     },
     {
@@ -3397,7 +3397,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2016-08-12T12:54:00",
       "ultimaApresentacaoProposicao_descricao": "Recebida a Mensagem nº 270/2016, do Poder Executivo, que informa ao Congresso Nacional que a Medida Provisória nº 726, de 2016, foi retificada no Diário Oficial da União de 19 de maio de 2016.",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2016
     },
     {
@@ -3426,12 +3426,12 @@
       "votosNao": 89,
       "votosOutros": 6,
       "descricao": "Aprovado, por unanimidade, o Requerimento de Urgência (Art. 155 do RICD).",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2016-06-01T17:17:09",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 4562/2016, pelo Deputado Evandro Gussi (PV-SP), que: \"Requeiro, nos termos do art. 155 do Regimento Interno da Câmara dos Deputados, urgência para a tramitação da Mensagem 235 de 2016, que trata 'do Acordo de Paris sob a Convenção-Quadro das Nações Unidas sobre Mudança do Clima (UNFCCC), celebrado em Paris, em 12 de dezembro de 2015, e assinado, em Nova York, no dia 22 de abril de 2016', a fim de que seja incluído para discussão e votação imediata na Ordem do Dia do Plenário da Câmara dos Deputados.\r\n\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2016
     },
     {
@@ -3460,12 +3460,12 @@
       "votosNao": 6,
       "votosOutros": 88,
       "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 275; não: 6; abstenção: 5; total: 286.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2016-06-07T17:57:54",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 4600/2016, pelo Líderes, que: \"Requeremos, nos termos do artigo 155 do Regimento Interno da Câmara dos Deputados, urgência para apreciação do Projeoto de Lei nº 4918, de 2016, que dispõe sobre o estatuto jurídico da empresa pública, da sociedade de economia mista e de suas subsidiárias, no âmbito da União, dos Estados, Do Distrito Federal e dos Municípios\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2016
     },
     {
@@ -3494,12 +3494,12 @@
       "votosNao": 101,
       "votosOutros": 1,
       "descricao": "Aprovado o Requerimento. Sim: 276; Não: 101; Total: 377.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2016-06-07T17:58:10",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 4601/2016, pelo Líderes, que: \"Requeremos, nos termos do artigo 155 do Regimento Interno da Câmara dos Deputados, urgência para apreciação do Projeto de Lei Complementar nº 268, de 2016, que altera a Lei Complementar nº 108, de 29 de maio de 2011, para aprimorar os dispositivos de governança das entidades fechadas de previdência complementar vinculadas à União, aos Estados, ao Distrito Federal e aos Municípios e a suas autarquias, fundações, sociedades de economia mista e outras entidas públicas\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2016
     },
     {
@@ -3766,8 +3766,8 @@
       "votosNao": 7,
       "votosOutros": 0,
       "descricao": "Aprovado o Parecer contra os votos dos Deputados Alessandro Molon, Danilo Cabral, Patrus Ananias, Jorge Solla, Erika Kokay, Subtenente Gonzaga e Angela Albino. Apresentaram votos em separado os Deputados Enio Verri, Patrus Ananias, Jorge Solla, Henrique Fontana, Erika Kokay, Daniel Almeida, Jandira Feghali e Luciana Santos.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2016-10-06T11:18:03",
       "ultimaApresentacaoProposicao_descricao": "Parecer do Relator, Dep. Darcísio Perondi (PMDB-RS), pela admissibilidade das Emendas de nºs 1 a 22/2016, apresentadas na Comissão Especial, e, no mérito, pela aprovação da PEC 241-A/2016 e da Emenda 3/2016, pela aprovação parcial das Emendas de nºs 1, 5, 17 e 18/2016, com Substitutivo, e pela rejeição das Emendas de nºs 2, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 19, 20, 21 e 22/2016.",
       "ultimaApresentacaoProposicao_idProposicao": 2113210,
@@ -4514,12 +4514,12 @@
       "votosNao": 131,
       "votosOutros": 3,
       "descricao": "Rejeitado o Requerimento. Sim: 253; não: 131; abstenção: 2; total: 386.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2016-07-05T16:46:13",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 4818/2016, pelo Líderes, que: \"Requeremos, nos termos do art. 155 do Regimento Interno da Câmara dos Deputados, regime de urgência para tramitação do Projeto de Lei Complementar nº 257 de 2016, do Poder Executivo, que estabelece o Plano de Auxílio aos Estados e ao Distrito Federal e medidas de estímulo ao reequilíbrio fiscal; altera a Lei nº  9.496, de 11 de setembro de 1997, a Medida Provisória nº 2.192-70, de 24 de agosto de 2001, a Lei Complementar nº 148, de 25 de novembro de 2014, e a Lei Complementar nº  101, de 4 de maio de 2000; e dá outras providências.\r\n\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2016
     },
     {
@@ -4548,12 +4548,12 @@
       "votosNao": 28,
       "votosOutros": 1,
       "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 346; não: 28; total: 374.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2016-07-06T19:02:28",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 4864/2016, pelo Líderes, que: \"Requeremos, nos termos do Art. 155 do Regimento Interno da Câmara dos Deputados, urgência para apreciação do PL nº 5768/2016\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2016
     },
     {
@@ -4582,12 +4582,12 @@
       "votosNao": 118,
       "votosOutros": 4,
       "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 335; não: 118; abstenção: 3; total: 456.\r\nDCD do dia 13/07/16 PÁG 111 COL 01.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2016-07-11T19:44:58",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 4879/2016, pelo Líderes, que: \"Requeremos, nos termos do artigo 155 do Regimento Interno da Câmara dos Deputados, urgência para apreciação do Projeto de Lei Complementar nº 257, de 2016, que estabelece o Plano de Auxílio aos Estados e ao Distrito Federal e medidas de estímulo ao reequilíbrio fiscal; altera a Lei nº 9.496, de 11 de setembro de 1997, a Medida Provisória nº 2.192-70, de 24 de agosto de 2001, a Lei Complementar nº 148, de 25 de novembro de 2014, e a Lei Complementar nº 101, de 4 de maio de 2000\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2016
     },
     {
@@ -4616,12 +4616,12 @@
       "votosNao": 105,
       "votosOutros": 1,
       "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 337; não: 105; total: 442.\r\nDCD do dia 13/07/16 PÁG 151 COL 01.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2016-07-11T19:47:14",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 4880/2016, pelo Líderes, que: \"Requeremos, nos termos do artigo 155 do Regimento Interno da Câmara dos Deputados, urgência para apreciação do Projeto de Lei nº 4567, de 2016, que altera a Lei nº 12.351, de 22 de dezembro de 2010, para facultar à Petrobras o direito de preferência para atuar como operador e possuir participação mínima de 30% (trinta por cento) nos consórcios formados para exploração de blocos licitados no regime de partilha de produção.\r\n\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2016
     },
     {
@@ -4856,10 +4856,10 @@
       "descricao": "Rejeitada a Emenda n°4. Sim: 79; não: 210; abstenção: 1; total: 290.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2016-12-14T21:47:06",
       "ultimaAberturaVotacao_descricao": "Votação da Emenda nº 4, objeto do destaque para votação em separado da bancada do PDT - DTQ 4.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2016
     },
     {
@@ -4890,10 +4890,10 @@
       "descricao": "Mantido o texto. Sim: 196; não: 92; abstenção: 1; total: 289.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2016-12-14T22:19:27",
       "ultimaAberturaVotacao_descricao": "Votação do artigo 15 e, por decorrência, artigos 16 e 17, contidos no Projeto de Lei de Conversão nº 35 de 2016, apresentado à Medida Provisória nº 744 de 2016, objeto do destaque para votação em separado da bancada do PT - DTQ 9.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2016
     },
     {
@@ -4924,10 +4924,10 @@
       "descricao": "Rejeitada a Emenda n° 11. Sim: 85; não: 193; abstenção: 1; Total: 279.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2016-12-14T22:39:01",
       "ultimaAberturaVotacao_descricao": "Votação da Emenda nº 11, objeto do destaque para votação em separado da bancada do PT - DTQ 1.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2016
     },
     {
@@ -5026,10 +5026,10 @@
       "descricao": "Mantido o texto. Sim: 229; Não: 124; Abstenção: 1; Total: 354.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2016-12-13T18:13:47",
       "ultimaAberturaVotacao_descricao": "Votação do §11 e seus incisos, do artigo 36 da Lei 9.394 de 1996, com redação dada pelo artigo 4 do Projeto de Lei de Conversão nº 34 de 2016, objeto do destaque para votação em separado da bancada do PCdoB - DTQ 4.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2016
     },
     {
@@ -5060,10 +5060,10 @@
       "descricao": "Rejeitada a Emenda. Sim: 148; Não: 208: Total: 356.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2016-12-13T19:06:36",
       "ultimaAberturaVotacao_descricao": "Votação da Emenda nº 16, apresentada à Medida Provisória nº 746 de 2016, para que conste no artigo 4º do Projeto de Lei de Conversão nº 34 de 2016, objeto do destaque para votação em separado da bancada do PSOL- DTQ 5.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2016
     },
     {
@@ -5094,10 +5094,10 @@
       "descricao": "Aprovada a  Emenda n° 24. Sim: 324; Não: 5: Abstenção: 1; Total: 330.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2016-12-13T19:29:31",
       "ultimaAberturaVotacao_descricao": "Votação da Emenda nº 24, objeto do destaque para votação em separado da bancada do DEM- DTQ 26.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2016
     },
     {
@@ -5128,10 +5128,10 @@
       "descricao": "Mantido o texto. Sim: 190; Não: 86: Total: 276.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2016-12-13T20:06:42",
       "ultimaAberturaVotacao_descricao": "Votação do inciso IV do artigo 61 da Lei 9.394, constante do artigo 6 do Projeto de Lei de Conversão nº 34 de 2016, objeto do destaque para votação em separado da bancada do PT- DTQ 9.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2016
     },
     {
@@ -5162,10 +5162,10 @@
       "descricao": "Rejeitada a Emenda nº 183. Sim: 112; Não: 230; Total: 342.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2016-12-13T20:34:30",
       "ultimaAberturaVotacao_descricao": "Votação da Emenda nº 183, objeto do destaque para votação em separado da bancada do PDT- DTQ 6.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2016
     },
     {
@@ -5196,10 +5196,10 @@
       "descricao": "Rejeitado o Requerimento. Sim: 36; não: 232; total: 268.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2016-12-07T18:10:09",
       "ultimaAberturaVotacao_descricao": "Votação do Requerimento do Dep. Bohn Gass, na qualidade de Líder do PT, que solicita votação nominal para o Requerimento que solicita retirada de pauta desta Medida Provisória.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2016
     },
     {
@@ -5230,10 +5230,10 @@
       "descricao": "Rejeitado o Requerimento. Sim: 29; Não: 228; Total: 257.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2016-12-07T20:49:37",
       "ultimaAberturaVotacao_descricao": "Votação do Requerimento do Dep. Zé Geraldo, na qualidade de Líder do PT, que solicita o adiamento da votação por duas sessões.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2016
     },
     {
@@ -5264,10 +5264,10 @@
       "descricao": "Aprovada a Medida Provisória nº 746 de 2016, na forma do Projeto de Lei de Conversão nº 34 de 2016, ressalvados os destaques. Sim: 263; não: 106; abstenções: 3; total: 372.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2016-12-07T21:38:33",
       "ultimaAberturaVotacao_descricao": "Votação, quanto ao mérito, em turno único.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2016
     },
     {
@@ -5298,10 +5298,10 @@
       "descricao": "Rejeitada a Emenda. Sim: 121; Não: 192; Abstenção: 1; Total: 314.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2016-12-13T16:54:15",
       "ultimaAberturaVotacao_descricao": "Votação do § 2º do artigo 5º da Emenda nº 547, com vistas à sua inclusão após o § 1º do artigo 24, constante do artigo 1º do Projeto de Lei de Conversão nº 34 de 2016, apresentado à Medida Provisória nº 746 de 2016, objeto do destaque para votação em separado da bancada do PT - DTQ 11.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2016
     },
     {
@@ -5332,10 +5332,10 @@
       "descricao": "Rejeitada a Emenda. Sim: 120; Não: 171; Total: 291.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2016-12-13T17:25:35",
       "ultimaAberturaVotacao_descricao": "Votação da Emenda nº 22, objeto do destaque para votação em separado da bancada do Bloco Parlamentar PTN, PTdoB e PSL- DTQ 23.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2016
     },
     {
@@ -5369,7 +5369,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2016-10-10T09:20:17",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento n. 5298/2016, pelo Deputado Andre Moura (PSC-SE), que: \"Requeremos, nos termos do parágrafo único, inciso 1 do artigo 150 do Regimento Interno da Câmara dos Deputados, a DISPENSA DE INTERSTÍCIO para inclusão do SUBSTITUTIVO oferecido à PROPOSTA DE EMENDA À CONSTITUIÇÃO N2 241, DE 2016, na pesente-Ordem do Dia.\r\n\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2016
     },
     {
@@ -5398,12 +5398,12 @@
       "votosNao": 16,
       "votosOutros": 82,
       "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 300; não: 16; abstenção: 4; total: 320.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2016-11-08T15:03:01",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 5472/2016, pelo Líderes, que: \"Requeremos, nos termos do artigo 155 do Regimento Interno da Câmara dos Deputados, urgência para apreciação do Projeto de Lei n. 6427, de 2016, que altera a lei n.  8.213, de 24 de julho de 1991, que dispõe sobre os Planos de Benefícios da Previdência Social, e institui o Bônus Especial de Desempenho Institucional por Perícia Médica em Benefícios por Incapacidade.\r\n\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2016
     },
     {
@@ -5500,8 +5500,8 @@
       "votosNao": 6,
       "votosOutros": 0,
       "descricao": "Aprovado o Parecer contra os votos dos Deputados Odorico Monteiro, Assis Carvalho, Zenaide Maia, Jorge Solla, Ivan Valente e Angela Albino, apresentou voto em separado o Deputado Jorge Solla.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2015-09-22T15:34:50",
       "ultimaApresentacaoProposicao_descricao": "Parecer da Relatora, Dep. Flávia Morais (PDT-GO), pela aprovação.",
       "ultimaApresentacaoProposicao_idProposicao": 1734885,

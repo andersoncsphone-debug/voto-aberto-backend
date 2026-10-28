@@ -96,10 +96,10 @@
       "descricao": "Rejeitado o Requerimento. Sim: 6; não: 256; total: 262.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2012-07-03T20:24:39",
       "ultimaAberturaVotacao_descricao": "Votação do Requerimento do Dep. Claudio Cajado, na qualidade de Líder do DEM, que solicita a retirada de pauta desta Medida Provisória.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2012
     },
     {
@@ -130,10 +130,10 @@
       "descricao": "Rejeitado o Requerimento. Sim: 3; não: 253; abstenção: 1; total: 257.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2012-07-04T17:10:16",
       "ultimaAberturaVotacao_descricao": "Votação do Requerimento do Dep. Domingos Sávio, na qualidade de Líder do PSDB, que solicita a retirada de pauta desta Medida Provisória.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2012
     },
     {
@@ -164,10 +164,10 @@
       "descricao": "Rejeitada a Emenda nº 17. Sim: 70; não: 195; abstenção: 1; total: 266.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2012-07-04T18:53:15",
       "ultimaAberturaVotacao_descricao": "Votação da Emenda nº 17, objeto do Destaque para votação em separado da bancada do PSDB.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2012
     }
   ]

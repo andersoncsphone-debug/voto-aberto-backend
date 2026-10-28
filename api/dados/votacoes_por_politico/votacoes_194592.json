@@ -541,7 +541,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2016-08-12T12:54:00",
       "ultimaApresentacaoProposicao_descricao": "Recebida a Mensagem nº 270/2016, do Poder Executivo, que informa ao Congresso Nacional que a Medida Provisória nº 726, de 2016, foi retificada no Diário Oficial da União de 19 de maio de 2016.",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2016
     },
     {
@@ -575,7 +575,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2016-08-12T12:54:00",
       "ultimaApresentacaoProposicao_descricao": "Recebida a Mensagem nº 270/2016, do Poder Executivo, que informa ao Congresso Nacional que a Medida Provisória nº 726, de 2016, foi retificada no Diário Oficial da União de 19 de maio de 2016.",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2016
     },
     {
@@ -1114,12 +1114,12 @@
       "votosNao": 131,
       "votosOutros": 3,
       "descricao": "Rejeitado o Requerimento. Sim: 253; não: 131; abstenção: 2; total: 386.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2016-07-05T16:46:13",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 4818/2016, pelo Líderes, que: \"Requeremos, nos termos do art. 155 do Regimento Interno da Câmara dos Deputados, regime de urgência para tramitação do Projeto de Lei Complementar nº 257 de 2016, do Poder Executivo, que estabelece o Plano de Auxílio aos Estados e ao Distrito Federal e medidas de estímulo ao reequilíbrio fiscal; altera a Lei nº  9.496, de 11 de setembro de 1997, a Medida Provisória nº 2.192-70, de 24 de agosto de 2001, a Lei Complementar nº 148, de 25 de novembro de 2014, e a Lei Complementar nº  101, de 4 de maio de 2000; e dá outras providências.\r\n\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2016
     },
     {
@@ -1148,12 +1148,12 @@
       "votosNao": 28,
       "votosOutros": 1,
       "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 346; não: 28; total: 374.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2016-07-06T19:02:28",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 4864/2016, pelo Líderes, que: \"Requeremos, nos termos do Art. 155 do Regimento Interno da Câmara dos Deputados, urgência para apreciação do PL nº 5768/2016\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2016
     },
     {
@@ -1182,12 +1182,12 @@
       "votosNao": 118,
       "votosOutros": 4,
       "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 335; não: 118; abstenção: 3; total: 456.\r\nDCD do dia 13/07/16 PÁG 111 COL 01.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2016-07-11T19:44:58",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 4879/2016, pelo Líderes, que: \"Requeremos, nos termos do artigo 155 do Regimento Interno da Câmara dos Deputados, urgência para apreciação do Projeto de Lei Complementar nº 257, de 2016, que estabelece o Plano de Auxílio aos Estados e ao Distrito Federal e medidas de estímulo ao reequilíbrio fiscal; altera a Lei nº 9.496, de 11 de setembro de 1997, a Medida Provisória nº 2.192-70, de 24 de agosto de 2001, a Lei Complementar nº 148, de 25 de novembro de 2014, e a Lei Complementar nº 101, de 4 de maio de 2000\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2016
     },
     {
@@ -1216,12 +1216,12 @@
       "votosNao": 105,
       "votosOutros": 1,
       "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 337; não: 105; total: 442.\r\nDCD do dia 13/07/16 PÁG 151 COL 01.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2016-07-11T19:47:14",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 4880/2016, pelo Líderes, que: \"Requeremos, nos termos do artigo 155 do Regimento Interno da Câmara dos Deputados, urgência para apreciação do Projeto de Lei nº 4567, de 2016, que altera a Lei nº 12.351, de 22 de dezembro de 2010, para facultar à Petrobras o direito de preferência para atuar como operador e possuir participação mínima de 30% (trinta por cento) nos consórcios formados para exploração de blocos licitados no regime de partilha de produção.\r\n\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2016
     },
     {
@@ -1255,7 +1255,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2016-10-10T09:20:17",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento n. 5298/2016, pelo Deputado Andre Moura (PSC-SE), que: \"Requeremos, nos termos do parágrafo único, inciso 1 do artigo 150 do Regimento Interno da Câmara dos Deputados, a DISPENSA DE INTERSTÍCIO para inclusão do SUBSTITUTIVO oferecido à PROPOSTA DE EMENDA À CONSTITUIÇÃO N2 241, DE 2016, na pesente-Ordem do Dia.\r\n\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2016
     },
     {

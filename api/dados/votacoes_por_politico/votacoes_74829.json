@@ -473,7 +473,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2010-05-26T19:11:23",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento n. 6933/2010, pelo Deputado Fábio Souto (DEM-BA), que: \"Requer a inclusão do meu nome como subscritor ao Requerimento nº 6923/2010, que requer a inclusão na Ordem do Dia da PEC 446/09 (apensada: PEC 300/08)\".\r\nDCD de 27/05/10 PÁG 23982 COL 02.",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2010
     },
     {
@@ -774,12 +774,12 @@
       "votosNao": 51,
       "votosOutros": 14,
       "descricao": "Aprovado o Requerimento. Sim: 265; não: 51; abstenção: 13; total: 329.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2010-03-17T14:29:41",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento n. 6467/2010, pelo Dep. Lira Maia e outros, que: \"Requer urgência para apreciação do Projeto de Decreto Legislativo nº 731/2000 que Convoca plebiscito sobre a criação do Estado do Tapajós\".\r\nDCD de 18/03/10 PÁG 9651 COL 01.",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2010
     },
     {
@@ -808,12 +808,12 @@
       "votosNao": 53,
       "votosOutros": 15,
       "descricao": "Aprovado o Requerimento. Sim: 261; não: 53; abstenção: 14; total: 328.\r\nDCD de 15/04/10 PÁG 15201 COL 01.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2010-03-17T14:30:35",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento n. 6468/2010, pelo Dep. Dagoberto e outros, que: \"Requer regime de urgência para apreciação do PDC nº 2.300, de 2009\".\r\nDCD de 18/03/10 PÁG 9651 COL 01.",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2010
     },
     {
@@ -842,12 +842,12 @@
       "votosNao": 6,
       "votosOutros": 42,
       "descricao": "Aprovado o Requerimento. Sim: 263; não: 6; abstenção: 4; total: 273.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2010-03-24T20:04:37",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento n. 6546/2010, dos Líderes, que requer \"nos termos regimentais urgência ao PL 1.481 de 2007\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2010
     },
     {
@@ -1082,10 +1082,10 @@
       "descricao": "Rejeitado o Requerimento. Sim: 2; Não: 262; Total: 264.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2012-07-03T16:54:39",
       "ultimaAberturaVotacao_descricao": "Votação do Requerimento do Dep. Alexandre Leite, na qualidade de Líder do DEM, que solicita o adiamento da discussão por duas sessões.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2012
     },
     {
@@ -1116,10 +1116,10 @@
       "descricao": "Rejeitado o Requerimento. Não: 262; total: 262.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2012-07-04T13:46:07",
       "ultimaAberturaVotacao_descricao": "Votação do Requerimento do Dep. Henrique Fontana (PT-RS), na qualidade de Líder do PT, que solicita a retirada de pauta desta Medida Provisória.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2012
     },
     {
@@ -1150,10 +1150,10 @@
       "descricao": "Rejeitado o Requerimento. Sim: 3; não: 253; abstenção: 1; total: 257.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2012-07-04T17:10:16",
       "ultimaAberturaVotacao_descricao": "Votação do Requerimento do Dep. Domingos Sávio, na qualidade de Líder do PSDB, que solicita a retirada de pauta desta Medida Provisória.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2012
     },
     {
@@ -1184,10 +1184,10 @@
       "descricao": "Rejeitada a Emenda nº 17. Sim: 70; não: 195; abstenção: 1; total: 266.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2012-07-04T18:53:15",
       "ultimaAberturaVotacao_descricao": "Votação da Emenda nº 17, objeto do Destaque para votação em separado da bancada do PSDB.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2012
     },
     {

@@ -298,12 +298,12 @@
       "votosNao": 1,
       "votosOutros": 6,
       "descricao": "Aprovado o Requerimento. Sim: 262; não: 1; abstenção: 4; total: 267.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2010-11-16T19:12:32",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento n. 7447/2010, pelos Deputados Fernando Ferro (PT-PE) e outros, que: \"Requer urgência para o PLP 591/10\".\r\nDCD de 17/11/10 PÁG 43613 COL 01.",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2010
     },
     {
@@ -332,12 +332,12 @@
       "votosNao": 35,
       "votosOutros": 4,
       "descricao": "Aprovado o Requerimento. Sim: 279; não: 35; abstenção: 3; total: 317.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2010-12-15T12:29:22",
       "ultimaApresentacaoProposicao_descricao": "Apresentação da Requerimento de Urgência (Art. 155 do RICD) n. 7575/2010, pelo Líderes, que: \"Requer regime de urgência urgentíssima para apreciação da proposição (PDC 3036/2010)\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2010
     }
   ]

@@ -514,7 +514,7 @@
       "idVotacao": "582292-52",
       "uriVotacao": "https://dadosabertos.camara.leg.br/api/v2/votacoes/582292-52",
       "dataHoraVoto": "2013-08-28T20:31:34",
-      "voto": NaN,
+      "voto": null,
       "deputado_id": 174314,
       "deputado_uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/174314",
       "deputado_nome": "Pedro Guerra",
@@ -541,7 +541,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2013-06-26T14:25:36",
       "ultimaApresentacaoProposicao_descricao": "Publicação Inicial no DCD de 27/6/2013.",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2013
     },
     {
@@ -570,12 +570,12 @@
       "votosNao": 4,
       "votosOutros": 8,
       "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 332; não: 4; total: 336.\r\nDCD de 11/07/13 PÁG 30510 COL 02.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2013-07-03T18:11:41",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 8139/2013, pelo Deputado Eduardo Cunha (PMDB-RJ), que: \"Requer regime de urgência para apreciação de proposição.\r\n\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2013
     },
     {
@@ -604,12 +604,12 @@
       "votosNao": 86,
       "votosOutros": 14,
       "descricao": "Aprovado o Requerimento. Sim: 292; não: 86; abstenção: 12; total: 390.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2013-07-09T19:31:40",
       "ultimaApresentacaoProposicao_descricao": "Apresentação da Requerimento de Moção n. 8196/2013, pelo Deputado José Guimarães (PT-CE), que: \"Requeremos, nos termos regimentais da Câmara dos Deputados, a aprovação de Moção de Repúdio ao governo dos Estados Unidos em razão das atividades da National Security Agency (NSA) no País, as quais violam direito de empresas e cidadãos brasileiros e atentam contra a soberania nacional\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2013
     },
     {
@@ -638,12 +638,12 @@
       "votosNao": 130,
       "votosOutros": 7,
       "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 258; não: 130; abstenção: 1; total: 389.\r\nDCD de 02/10/13 PÁG 43982 COL 01.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2013-09-25T20:08:20",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 8696/2013, pelo Líderes, que: \"Requer com base no art. 155 do Regimento Interno, urgência para a apreciação do PL 6397/2013\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2013
     }
   ]

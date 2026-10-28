@@ -808,12 +808,12 @@
       "votosNao": 51,
       "votosOutros": 14,
       "descricao": "Aprovado o Requerimento. Sim: 265; não: 51; abstenção: 13; total: 329.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2010-03-17T14:29:41",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento n. 6467/2010, pelo Dep. Lira Maia e outros, que: \"Requer urgência para apreciação do Projeto de Decreto Legislativo nº 731/2000 que Convoca plebiscito sobre a criação do Estado do Tapajós\".\r\nDCD de 18/03/10 PÁG 9651 COL 01.",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2010
     },
     {
@@ -842,12 +842,12 @@
       "votosNao": 53,
       "votosOutros": 15,
       "descricao": "Aprovado o Requerimento. Sim: 261; não: 53; abstenção: 14; total: 328.\r\nDCD de 15/04/10 PÁG 15201 COL 01.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2010-03-17T14:30:35",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento n. 6468/2010, pelo Dep. Dagoberto e outros, que: \"Requer regime de urgência para apreciação do PDC nº 2.300, de 2009\".\r\nDCD de 18/03/10 PÁG 9651 COL 01.",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2010
     },
     {
@@ -876,12 +876,12 @@
       "votosNao": 6,
       "votosOutros": 42,
       "descricao": "Aprovado o Requerimento. Sim: 263; não: 6; abstenção: 4; total: 273.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2010-03-24T20:04:37",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento n. 6546/2010, dos Líderes, que requer \"nos termos regimentais urgência ao PL 1.481 de 2007\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2010
     },
     {
@@ -915,7 +915,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2010-05-04T17:15:57",
       "ultimaApresentacaoProposicao_descricao": "Apresentação da Requerimento de Urgência (Art. 155 do RICD) n. 6752/2010, pelo Líderes, que: \"Requer, nos termos do artigo 155 do Regimento Interno, regime de Urgência para apreciação da MSC n. 951/2009\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2010
     }
   ]

@@ -94,8 +94,8 @@
       "votosNao": 6,
       "votosOutros": 1,
       "descricao": "Aprovado o Parecer contra os votos dos Deputados Claudio Cajado, Oziel Oliveira, Toninho Pinheiro, Nelson Marchezan Junior, Irajá Abreu e Valdir Colatto e absteve-se de votar o Deputado Giovani Cherini, apresentou voto em separado o Deputado Homero Pereira.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2011-05-05T14:06:01",
       "ultimaApresentacaoProposicao_descricao": "Parecer da Relatora, Dep. Rebecca Garcia (PP-AM), pela rejeição deste, e do PDC 2824/2010, apensado.",
       "ultimaApresentacaoProposicao_idProposicao": 500950,
@@ -536,12 +536,12 @@
       "votosNao": 18,
       "votosOutros": 3,
       "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 399; não: 18; abstenção: 1; total: 418.\r\nDCD 04/05/11 PÁG 21338 COL 02.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2010-12-01T22:06:48",
       "ultimaApresentacaoProposicao_descricao": "Apresentação da Requerimento de Urgência (Art. 155 do RICD) n. 7537/2010, pelo Deputado Sandro Mabel (PR-GO), que: \"Requer Urgência na apreciação do PL 1876/1999, de acordo com art. 155, do Regimento Interno da Câmara\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2011
     },
     {
@@ -570,8 +570,8 @@
       "votosNao": 339,
       "votosOutros": 18,
       "descricao": "Rejeitado o Requerimento. Sim:55; não: 339; abstenção:02; total: 396.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2011-05-05T17:01:06",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Projeto de Lei de Conversão n. 10/2011, pelo Deputado Andre Vargas (PT-PR), que: \"Altera a Lei nº 11.977, de 7 de julho de 2009, que dispõe sobre o Programa Minha Casa Minha Vida - PMCMV e a regularização fundiária de assentamentos localizados em áreas urbanas\".",
       "ultimaApresentacaoProposicao_idProposicao": 501038,
@@ -745,7 +745,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2011-05-05T09:46:02",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Projeto de Lei de Conversão n. 11/2011, pela Deputada Jandira Feghali (PCdoB-RJ), que: \"Altera a Lei nº 6.932/81, que dispõe sobre as atividades do médico-residente, institui o Regime Diferenciado de Contratações Públicas e prorroga o prazo de pagamento da Gratificação de Representação de Gabinete e da Gratificação Temporária para os servidores ou empregados requisitados pela Advocacia-Geral da União\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2011
     },
     {
@@ -876,12 +876,12 @@
       "votosNao": 24,
       "votosOutros": 53,
       "descricao": "Aprovado o Requerimento. Sim: 336; não: 24; abstenção: 03; total: 363.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2011-02-15T19:13:23",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento n. 343/2011, pelos Deputados Cândido Vaccarezza (PT-SP) e outros, que: \"Requer urgência para apreciação do Projeto de Decreto Legislativo nº 2.600/2010\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2011
     },
     {
@@ -915,7 +915,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2011-02-15T19:24:49",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento n. 349/2011, pelo Deputado Cândido Vaccarezza (PT-SP), que: \"Requerimento de , urgência para apreciação do PL 382/2011, de autoria do Executivo Federal, que  \"Dispõe sobre o valor do salário mínimo em 2011, a sua política de valorização de longo prazo, e disciplina a representação fiscal para fins penais nos casos em que houve parcelamento do crédito tributário\"\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2011
     },
     {
@@ -1187,7 +1187,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2011-07-05T17:53:36",
       "ultimaApresentacaoProposicao_descricao": "Parecer Reformulado em Plenário e entregue à Mesa pelo Relator, Dep. Maurício Trindade (PR-BA), pela Comissão Mista, que conclui pela aprovação desta Medida Provisória, na forma do Projeto de Lei de Conversão apresentado, com alterações.",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2011
     },
     {
@@ -1216,12 +1216,12 @@
       "votosNao": 293,
       "votosOutros": 12,
       "descricao": "Rejeitado o Requerimento. Sim: 60; não: 293; abstenção: 8; total: 361.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2011-06-08T17:24:01",
       "ultimaApresentacaoProposicao_descricao": "Apresentação da Requerimento de Moção n. 2086/2011, pelo Deputado Duarte Nogueira (PSDB-SP), que: \"Requer a aprovação de Moção de Repúdio à atitude da Presidente Dilma Rousseff, de não receber a Senhora SHIRIN EBADI, Prêmio Nobel da Paz e Advogada iraniana de Direitos Humanos, em visita ao Brasil\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2011
     }
   ]

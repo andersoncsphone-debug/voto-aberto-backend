@@ -26,12 +26,12 @@
       "votosNao": 18,
       "votosOutros": 4,
       "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 271; não: 18; abstenções: 3; total: 292.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2013-12-17T15:51:05",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 9261/2013, pelos Deputados Fernando Francischini (SDD-PR); Marcelo Castro, na qualidade de Líder do PMDB; Givaldo Carimbão, Líder do Bloco PP, PROS;  Eduardo Sciarra, Líder do PSD; Anthony Garotinho, Líder do Bloco PR,PTdoB,PRP; Glauber Braga, na qualidade de Líder do PSB; Ronaldo Caiado, Líder do DEM; André Moura, Líder do PSC; Alice Portugal, na qualidade de Líder do PCdoB; André Figueiredo, Líder do PDT; George Hilton, Líder do PRB; e Antonio Brito, na qualidade de Líder do PTB, que: \"Requer, nos termos do art. 155 do Regimento Interno da Câmara dos Deputados, urgência urgentíssima para apreciação do Projeto de Resolução nº 228/2013.",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2013
     },
     {
@@ -128,8 +128,8 @@
       "votosNao": 105,
       "votosOutros": 3,
       "descricao": "Aprovado o Requerimento. Sim: 252; não: 105; abstenção: 01; total: 358. *** Passa-se à apreciação da PEC nº 358/2013.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2014-02-13T15:44:58",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento n. 9509/2014, pelo Deputado João Campos (PSDB-GO), que: \"Requer inclusão na Ordem do Dia da PEC nº 471 de 2005 de minha autoria, que Dá nova redação ao parágrafo 3º do art. 236 da Constituição Federal. Estabelece a efetivação para os atuais responsáveis e substitutos pelos serviços notariais, investidos na forma da lei. Altera a Constituição Federal de 1988. Conhecida como \"PEC dos Cartórios\"\".",
       "ultimaApresentacaoProposicao_idProposicao": 606265,
@@ -405,7 +405,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2014-11-11T17:06:56",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Reconsideração nº 10768/2014, pelo Deputado Eduardo Sciarra, que \"Requer reconsideração ao Presidente da Câmara dos Deputados, relativo aos Requerimentos 10.101 e 10.102, de 2014.",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2014
     },
     {
@@ -439,7 +439,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2014-11-11T17:06:56",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Reconsideração nº 10768/2014, pelo Deputado Eduardo Sciarra, que \"Requer reconsideração ao Presidente da Câmara dos Deputados, relativo aos Requerimentos 10.101 e 10.102, de 2014.",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2014
     },
     {
@@ -915,7 +915,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2013-08-07T17:27:56",
       "ultimaApresentacaoProposicao_descricao": "Apresentação da Proposta de Emenda à Constituição n. 290/2013, pelas Deputadas Margarida Salomão (PT-MG) e outros, que: \"Altera e adiciona dispositivos na Constituição Federal para atualizar o tratamento das atividades de ciência, tecnologia e inovação\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2014
     },
     {
@@ -949,7 +949,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2013-08-07T17:27:56",
       "ultimaApresentacaoProposicao_descricao": "Apresentação da Proposta de Emenda à Constituição n. 290/2013, pelas Deputadas Margarida Salomão (PT-MG) e outros, que: \"Altera e adiciona dispositivos na Constituição Federal para atualizar o tratamento das atividades de ciência, tecnologia e inovação\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2014
     },
     {
@@ -978,12 +978,12 @@
       "votosNao": 16,
       "votosOutros": 4,
       "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD).Sim: 307; não: 16; abstenção: 3; total: 326.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2013-08-13T21:01:54",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 8339/2013, pelos Deputados Jovair Arantes Líder do PTB; Arthur Lira, Líder do PP; Beto Albuquerque, Líder do PSB; Eduardo Sciarra, Líder do PSD; Ivan Valente, Líder do PSOL; Sarney Filho, Líder do PV; Anthony Garotinho, na qualidade de Líder do Bloco PR,PTdoB,PRP; Rubens Bueno, Líder do Bloco PV,PPS; Carlos Sampaio, Líder do PSDB; Ronaldo Caiado, Líder do DEM; Vicentinho, Líder do PT; Dr. Carlos Alberto (PMN-RJ); e Eduardo Cunha, Líder do PMDB, que requer regime de urgência para a apreciação do Projeto de Lei nº 5.943, de 2013, que \"dispõe sobre o exercício da profissão de motorista, altera a Consolidação das Leis do Trabalho (CLT) no que se refere ao empregado, e a Lei n° 9.503, de 23 de setembro de 1997 (Código de Trânsito brasileiro) bem como a Lei nº 11.442 de 5 de janeiro de 2007 (Empresas e transportadores autônomos de carga), para regular e disciplinar a jornada de trabalho e o tempo de direção do motorista profissional, e dá outras providências.\"",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2014
     },
     {
@@ -1114,12 +1114,12 @@
       "votosNao": 3,
       "votosOutros": 1,
       "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 310; não: 3; total: 313.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2013-10-22T19:28:00",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 8880/2013, pelos Deputados Anthony Garotinho, na qualidade de Líder do Bloco PR,PTdoB,PRP; José Guimarães, Líder do PT; Carlos Sampaio, Líder do PSDB; Ronaldo Caiado, Líder do DEM; André Moura, Líder do PSC; Beto Albuquerque, Líder do PSB; e Fernando Francischini, Líder do SDD, que requer, nos termos do art. 155 do Regimento Interno da Câmara dos Deputados, urgência para apreciação do Projeto de Lei Complementar nº 276, de 2002, do Poder Executivo, que \"altera a Lei Complementar nº 90, de 1º de outubro de 1997, que determina os casos em que forças estrangeiras possam transitar pelo território nacional ou nele permanecer temporariamente\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2014
     },
     {
@@ -1760,12 +1760,12 @@
       "votosNao": 4,
       "votosOutros": 2,
       "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 321; não: 4; abstenção: 1; total: 326.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2014-02-11T16:38:09",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 9459/2014, dos Srs. Eduardo Cunha, Líder do PMDB; Moreira Mendes, Líder do PSD; Anthony Garotinho, Líder do Bloco PR, PTdoB, PRP; Eduardo da Fonte, Líder do Bloco PP, PSB; Givaldo Carimbão, Vice-Líder do Bloco PP, PSB;  Rubens Bueno, Líder do PPS; Fernando Fancischini, Líder do SDD;  Antonio Imbassahy, Líder do PSDB; Jovair Arantes, Líder do PTB; e André Moura, Líder do PSC, que: \"Requer urgência, nos termos do art. 155, do Regimento Interno da Câmara dos Deputados, para apreciação do PDC 1263/2013, que susta a aplicação da Resolução nº 444, de 25 de junho de 2013 do Conselho Nacional de Trânsito - CONTRAN\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2014
     },
     {
@@ -1799,7 +1799,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2014-02-18T15:44:10",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento n. 9534/2014, pelos Deputados Antonio Imbassahy (PSDB-BA) e outros, que: \"Requer a criação de Comissão Externa Temporária para acompanhar as investigações efetuadas pelo Openbaar Ministerie, em Amsterdam, Holanda, acerca das operações e procedimentos no Brasil da empresa SBM Offshore, cuja sede situa-se naquele País, e que envolvem possíveis práticas de suborno.\r\n\r\n\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2014
     },
     {
@@ -1833,14 +1833,14 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2014-02-18T15:44:10",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento n. 9534/2014, pelos Deputados Antonio Imbassahy (PSDB-BA) e outros, que: \"Requer a criação de Comissão Externa Temporária para acompanhar as investigações efetuadas pelo Openbaar Ministerie, em Amsterdam, Holanda, acerca das operações e procedimentos no Brasil da empresa SBM Offshore, cuja sede situa-se naquele País, e que envolvem possíveis práticas de suborno.\r\n\r\n\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2014
     },
     {
       "idVotacao": "606409-4",
       "uriVotacao": "https://dadosabertos.camara.leg.br/api/v2/votacoes/606409-4",
       "dataHoraVoto": "2014-02-18T17:51:46",
-      "voto": NaN,
+      "voto": null,
       "deputado_id": 175737,
       "deputado_uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/175737",
       "deputado_nome": "Helcio Silva",
@@ -1867,7 +1867,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2014-02-18T16:44:03",
       "ultimaApresentacaoProposicao_descricao": "Apresentação da Objeto de Deliberação n. 13/2014, pela Mesa Diretora da Câmara dos Deputados, que: \"eleição para membro do conselho nacional de justiça\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2014
     },
     {
@@ -1976,7 +1976,7 @@
       "idVotacao": "613950-21",
       "uriVotacao": "https://dadosabertos.camara.leg.br/api/v2/votacoes/613950-21",
       "dataHoraVoto": "2014-07-15T17:03:56",
-      "voto": NaN,
+      "voto": null,
       "deputado_id": 175737,
       "deputado_uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/175737",
       "deputado_nome": "Helcio Silva",
@@ -2003,7 +2003,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2014-04-30T17:56:58",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Projeto de Decreto Legislativo de Ministro do TCU n. 1472/2014, pelo Senado Federal, que: \"Escolhe o Senhor Bruno Dantas Nascimento para o cargo de Ministro do Tribunal de Contas da União, nos termos do art. 73, § 2º, inciso II, da Constituição Federal, e art. 105, inciso II, da Lei nº 8.443, de 1992\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2014
     },
     {
@@ -2134,12 +2134,12 @@
       "votosNao": 54,
       "votosOutros": 33,
       "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 294; não: 54; abstenções: 3; total: 351.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2014-07-15T22:38:30",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 10487/2014, pelos Srs. Mendonça Filho, Líder do DEM; Rubens Bueno, Líder do PPS; Givaldo Carimbão, na qualidade de Líder do Bloco PP,PROS; André Moura, Líder do PSC; Lincoln Portela, na qualidade de Líder do Bloco PR,PTdoB,PRP; Arnaldo Faria de Sá, na qualidade de Líder do PTB; João Dado, na qualidade de Líder do SD; Moreira Mendes, Líder do PSD; Eurico Júnior, na qualidade de Líder do PV; Félix Júnior, Líder do PDT; Antonio Imbassahy, Líder do PSDB; e Beto Albuquerque, Líder do PSB que: \"Requer urgência, nos termos do art. 155, do Regimento Interno da Câmara dos Deputados, para apreciação do PDC 1.491/2014 que susta a aplicação do Decreto nº 8.243, de 23 de maio de 2014, que institui a Política Nacional de Participação Social - PNPS e o Sistema Nacional de Participação Social - SNPS, e dá outras providências\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2014
     },
     {
@@ -2248,7 +2248,7 @@
       "idVotacao": "808884-20",
       "uriVotacao": "https://dadosabertos.camara.leg.br/api/v2/votacoes/808884-20",
       "dataHoraVoto": "2014-12-09T16:46:25",
-      "voto": NaN,
+      "voto": null,
       "deputado_id": 175737,
       "deputado_uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/175737",
       "deputado_nome": "Helcio Silva",
@@ -2275,7 +2275,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2014-12-02T19:35:46",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Projeto de Decreto Legislativo de Ministro do TCU n. 1612/2014, pelo Senado Federal, que: \"Escolhe o Sr. Vital do Rêgo Filho para o cargo de Ministro do Tribunal de Contas da União, nos termos do art. 73, §2º, inciso II, da Constituição Federal e do art. 105, inciso II, da Lei nº 8.443, de 16 de julho de 1992.\r\n\r\nNOVA EMENTA: Escolhe o Sr. Vital do Rêgo Filho para o cargo de Ministro do Tribunal de Contas da União, nos termos do inciso II do § 2º do art. 73 da Constituição Federal e do inciso II do art. 105 da Lei nº 8.443, de 16 de julho de 1992\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2014
     }
   ]

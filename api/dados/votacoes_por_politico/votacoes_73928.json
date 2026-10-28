@@ -196,12 +196,12 @@
       "votosNao": 11,
       "votosOutros": 3,
       "descricao": "Aprovada o Requerimento de Urgência. Sim: 286; não: 11; abstenção: 01; total: 298.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2010-11-30T18:30:08",
       "ultimaApresentacaoProposicao_descricao": "Apresentação da Requerimento de Urgência (Art. 155 do RICD) n. 7513/2010, pelo Líderes, que: \"Com base no art. 155 do Regimento Interno, requeremos regime de urgência para a apreciação do PLP 352/2002\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2010
     },
     {
@@ -235,7 +235,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2010-12-01T20:57:56",
       "ultimaApresentacaoProposicao_descricao": "Apresentação da Requerimento de Urgência (Art. 155 do RICD) n. 7535/2010, pelo Deputado Sandro Mabel (PR-GO), que: \"Instui normas sobre jogos de bingo em todo Território Nacional e dá outras providências\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2010
     },
     {
@@ -264,12 +264,12 @@
       "votosNao": 98,
       "votosOutros": 5,
       "descricao": "Aprovado o Requerimento de Urgência. Sim: 258; não: 98; abstenção: 3; total: 359.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2010-12-08T16:40:44",
       "ultimaApresentacaoProposicao_descricao": "Apresentação da Requerimento de Urgência (Art. 155 do RICD) n. 7546/2010, pelo Deputado Paulo Pereira da Silva (PDT-SP), que: \"Requerimento, para regime de urgência urgentíssima para tramitação do PL 2944-A, de 2004, que 'institui normas sobre jogos de bingo em todo o Território Nacional\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2010
     },
     {
@@ -298,12 +298,12 @@
       "votosNao": 35,
       "votosOutros": 4,
       "descricao": "Aprovado o Requerimento. Sim: 279; não: 35; abstenção: 3; total: 317.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2010-12-15T12:29:22",
       "ultimaApresentacaoProposicao_descricao": "Apresentação da Requerimento de Urgência (Art. 155 do RICD) n. 7575/2010, pelo Líderes, que: \"Requer regime de urgência urgentíssima para apreciação da proposição (PDC 3036/2010)\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2010
     }
   ]

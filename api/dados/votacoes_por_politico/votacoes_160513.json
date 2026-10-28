@@ -570,8 +570,8 @@
       "votosNao": 339,
       "votosOutros": 18,
       "descricao": "Rejeitado o Requerimento. Sim:55; não: 339; abstenção:02; total: 396.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2011-05-05T17:01:06",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Projeto de Lei de Conversão n. 10/2011, pelo Deputado Andre Vargas (PT-PR), que: \"Altera a Lei nº 11.977, de 7 de julho de 2009, que dispõe sobre o Programa Minha Casa Minha Vida - PMCMV e a regularização fundiária de assentamentos localizados em áreas urbanas\".",
       "ultimaApresentacaoProposicao_idProposicao": 501038,
@@ -745,7 +745,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2011-05-05T09:46:02",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Projeto de Lei de Conversão n. 11/2011, pela Deputada Jandira Feghali (PCdoB-RJ), que: \"Altera a Lei nº 6.932/81, que dispõe sobre as atividades do médico-residente, institui o Regime Diferenciado de Contratações Públicas e prorroga o prazo de pagamento da Gratificação de Representação de Gabinete e da Gratificação Temporária para os servidores ou empregados requisitados pela Advocacia-Geral da União\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2011
     },
     {
@@ -876,12 +876,12 @@
       "votosNao": 24,
       "votosOutros": 53,
       "descricao": "Aprovado o Requerimento. Sim: 336; não: 24; abstenção: 03; total: 363.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2011-02-15T19:13:23",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento n. 343/2011, pelos Deputados Cândido Vaccarezza (PT-SP) e outros, que: \"Requer urgência para apreciação do Projeto de Decreto Legislativo nº 2.600/2010\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2011
     },
     {
@@ -978,12 +978,12 @@
       "votosNao": 11,
       "votosOutros": 0,
       "descricao": "Rejeitado o Requerimento, contra os votos dos Deputados José Priante, Jorge Corte Real, Jean Wyllys e Reinhold Stephanes.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2011-04-05T17:45:19",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento n. 12/2011, pelo Deputado Pauderney Avelino (DEM-AM), que: \"\r\nSolicita seja feito convite ao Ministro da Fazenda, Sr. Guido Mantega, a fim de prestar esclarecimentos quanto a eventual interferência do Governo na Vale\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2011
     },
     {
@@ -1012,12 +1012,12 @@
       "votosNao": 19,
       "votosOutros": 1,
       "descricao": "Rejeitado o Requerimento, contra os votos dos Deputados Pauderney Avelino e Carmem Zanotto.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2011-05-17T19:01:41",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento n. 36/2011, pelo Deputado Pauderney Avelino (DEM-AM), que: \"Solicita a convocação do Ministro-Chefe da Casa Civil, Sr. Antonio Palocci Filho, para explicar a vultosa evolução patrimonial de seus bens - no período de quatro anos - objeto de denúncia veiculada pelo jornal Folha de São Paulo\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2011
     },
     {
@@ -1046,12 +1046,12 @@
       "votosNao": 293,
       "votosOutros": 12,
       "descricao": "Rejeitado o Requerimento. Sim: 60; não: 293; abstenção: 8; total: 361.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2011-06-08T17:24:01",
       "ultimaApresentacaoProposicao_descricao": "Apresentação da Requerimento de Moção n. 2086/2011, pelo Deputado Duarte Nogueira (PSDB-SP), que: \"Requer a aprovação de Moção de Repúdio à atitude da Presidente Dilma Rousseff, de não receber a Senhora SHIRIN EBADI, Prêmio Nobel da Paz e Advogada iraniana de Direitos Humanos, em visita ao Brasil\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2011
     }
   ]

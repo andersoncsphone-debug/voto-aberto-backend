@@ -62,10 +62,10 @@
       "descricao": "Rejeitado o Requerimento. Sim: 1; não: 281; total: 282.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2012-07-03T18:43:11",
       "ultimaAberturaVotacao_descricao": "Votação do Requerimento do Dep. Alexandre Leite, na qualidade de Líder do DEM,  que solicita o adiamento da votação por duas sessões.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2012
     },
     {
@@ -96,10 +96,10 @@
       "descricao": "Rejeitado o Requerimento. Sim: 3; não: 253; abstenção: 1; total: 257.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2012-07-04T17:10:16",
       "ultimaAberturaVotacao_descricao": "Votação do Requerimento do Dep. Domingos Sávio, na qualidade de Líder do PSDB, que solicita a retirada de pauta desta Medida Provisória.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2012
     },
     {
@@ -130,10 +130,10 @@
       "descricao": "Rejeitada a Emenda nº 17. Sim: 70; não: 195; abstenção: 1; total: 266.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2012-07-04T18:53:15",
       "ultimaAberturaVotacao_descricao": "Votação da Emenda nº 17, objeto do Destaque para votação em separado da bancada do PSDB.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2012
     },
     {
@@ -164,10 +164,10 @@
       "descricao": "Mantido o dispositivo (sim: 231; não: 97; abstenção: 1; total: 330).",
       "ultimaAberturaVotacao_dataHoraRegistro": "2012-09-04T20:33:42",
       "ultimaAberturaVotacao_descricao": "Votação do art. 14 do Projeto de Lei de Conversão, objeto do Destaque para votação em separado da bancada do PSDB.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2012
     },
     {
@@ -198,10 +198,10 @@
       "descricao": "Rejeitada a Emenda. Sim: 61; não: 209; abstenção:1; total: 271.",
       "ultimaAberturaVotacao_dataHoraRegistro": "2012-09-18T21:11:33",
       "ultimaAberturaVotacao_descricao": "Votação da Emenda nº 533, objeto do Destaque para votação em separado da bancada do DEM.",
-      "ultimaApresentacaoProposicao_dataHoraRegistro": NaN,
-      "ultimaApresentacaoProposicao_descricao": NaN,
+      "ultimaApresentacaoProposicao_dataHoraRegistro": null,
+      "ultimaApresentacaoProposicao_descricao": null,
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2012
     },
     {
@@ -609,14 +609,14 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2014-02-18T15:44:10",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento n. 9534/2014, pelos Deputados Antonio Imbassahy (PSDB-BA) e outros, que: \"Requer a criação de Comissão Externa Temporária para acompanhar as investigações efetuadas pelo Openbaar Ministerie, em Amsterdam, Holanda, acerca das operações e procedimentos no Brasil da empresa SBM Offshore, cuja sede situa-se naquele País, e que envolvem possíveis práticas de suborno.\r\n\r\n\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2014
     },
     {
       "idVotacao": "613950-21",
       "uriVotacao": "https://dadosabertos.camara.leg.br/api/v2/votacoes/613950-21",
       "dataHoraVoto": "2014-07-15T17:13:30",
-      "voto": NaN,
+      "voto": null,
       "deputado_id": 74559,
       "deputado_uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/74559",
       "deputado_nome": "João Caldas",
@@ -643,7 +643,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2014-04-30T17:56:58",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Projeto de Decreto Legislativo de Ministro do TCU n. 1472/2014, pelo Senado Federal, que: \"Escolhe o Senhor Bruno Dantas Nascimento para o cargo de Ministro do Tribunal de Contas da União, nos termos do art. 73, § 2º, inciso II, da Constituição Federal, e art. 105, inciso II, da Lei nº 8.443, de 1992\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2014
     },
     {
@@ -672,12 +672,12 @@
       "votosNao": 54,
       "votosOutros": 33,
       "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 294; não: 54; abstenções: 3; total: 351.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2014-07-15T22:38:30",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 10487/2014, pelos Srs. Mendonça Filho, Líder do DEM; Rubens Bueno, Líder do PPS; Givaldo Carimbão, na qualidade de Líder do Bloco PP,PROS; André Moura, Líder do PSC; Lincoln Portela, na qualidade de Líder do Bloco PR,PTdoB,PRP; Arnaldo Faria de Sá, na qualidade de Líder do PTB; João Dado, na qualidade de Líder do SD; Moreira Mendes, Líder do PSD; Eurico Júnior, na qualidade de Líder do PV; Félix Júnior, Líder do PDT; Antonio Imbassahy, Líder do PSDB; e Beto Albuquerque, Líder do PSB que: \"Requer urgência, nos termos do art. 155, do Regimento Interno da Câmara dos Deputados, para apreciação do PDC 1.491/2014 que susta a aplicação do Decreto nº 8.243, de 23 de maio de 2014, que institui a Política Nacional de Participação Social - PNPS e o Sistema Nacional de Participação Social - SNPS, e dá outras providências\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2014
     },
     {

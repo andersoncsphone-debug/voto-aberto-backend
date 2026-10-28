@@ -740,12 +740,12 @@
       "votosNao": 97,
       "votosOutros": 9,
       "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 287; não: 97; abstenções: 6; total: 390.\r\nDCD 07/11/13 PÁG 52538 COL 02.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2013-11-05T11:59:11",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 8970/2013, pelo Deputado Eduardo Cunha (PMDB-RJ), que: \"Requer regime de urgência para apreciação de proposição.\r\n\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2013
     },
     {
@@ -774,12 +774,12 @@
       "votosNao": 18,
       "votosOutros": 4,
       "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 271; não: 18; abstenções: 3; total: 292.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2013-12-17T15:51:05",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 9261/2013, pelos Deputados Fernando Francischini (SDD-PR); Marcelo Castro, na qualidade de Líder do PMDB; Givaldo Carimbão, Líder do Bloco PP, PROS;  Eduardo Sciarra, Líder do PSD; Anthony Garotinho, Líder do Bloco PR,PTdoB,PRP; Glauber Braga, na qualidade de Líder do PSB; Ronaldo Caiado, Líder do DEM; André Moura, Líder do PSC; Alice Portugal, na qualidade de Líder do PCdoB; André Figueiredo, Líder do PDT; George Hilton, Líder do PRB; e Antonio Brito, na qualidade de Líder do PTB, que: \"Requer, nos termos do art. 155 do Regimento Interno da Câmara dos Deputados, urgência urgentíssima para apreciação do Projeto de Resolução nº 228/2013.",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2013
     },
     {
@@ -1493,7 +1493,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2013-08-07T17:27:56",
       "ultimaApresentacaoProposicao_descricao": "Apresentação da Proposta de Emenda à Constituição n. 290/2013, pelas Deputadas Margarida Salomão (PT-MG) e outros, que: \"Altera e adiciona dispositivos na Constituição Federal para atualizar o tratamento das atividades de ciência, tecnologia e inovação\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2014
     },
     {
@@ -1527,7 +1527,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2013-08-07T17:27:56",
       "ultimaApresentacaoProposicao_descricao": "Apresentação da Proposta de Emenda à Constituição n. 290/2013, pelas Deputadas Margarida Salomão (PT-MG) e outros, que: \"Altera e adiciona dispositivos na Constituição Federal para atualizar o tratamento das atividades de ciência, tecnologia e inovação\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2014
     },
     {
@@ -1556,12 +1556,12 @@
       "votosNao": 16,
       "votosOutros": 4,
       "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD).Sim: 307; não: 16; abstenção: 3; total: 326.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2013-08-13T21:01:54",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 8339/2013, pelos Deputados Jovair Arantes Líder do PTB; Arthur Lira, Líder do PP; Beto Albuquerque, Líder do PSB; Eduardo Sciarra, Líder do PSD; Ivan Valente, Líder do PSOL; Sarney Filho, Líder do PV; Anthony Garotinho, na qualidade de Líder do Bloco PR,PTdoB,PRP; Rubens Bueno, Líder do Bloco PV,PPS; Carlos Sampaio, Líder do PSDB; Ronaldo Caiado, Líder do DEM; Vicentinho, Líder do PT; Dr. Carlos Alberto (PMN-RJ); e Eduardo Cunha, Líder do PMDB, que requer regime de urgência para a apreciação do Projeto de Lei nº 5.943, de 2013, que \"dispõe sobre o exercício da profissão de motorista, altera a Consolidação das Leis do Trabalho (CLT) no que se refere ao empregado, e a Lei n° 9.503, de 23 de setembro de 1997 (Código de Trânsito brasileiro) bem como a Lei nº 11.442 de 5 de janeiro de 2007 (Empresas e transportadores autônomos de carga), para regular e disciplinar a jornada de trabalho e o tempo de direção do motorista profissional, e dá outras providências.\"",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2014
     },
     {
@@ -1692,12 +1692,12 @@
       "votosNao": 3,
       "votosOutros": 1,
       "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 310; não: 3; total: 313.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2013-10-22T19:28:00",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 8880/2013, pelos Deputados Anthony Garotinho, na qualidade de Líder do Bloco PR,PTdoB,PRP; José Guimarães, Líder do PT; Carlos Sampaio, Líder do PSDB; Ronaldo Caiado, Líder do DEM; André Moura, Líder do PSC; Beto Albuquerque, Líder do PSB; e Fernando Francischini, Líder do SDD, que requer, nos termos do art. 155 do Regimento Interno da Câmara dos Deputados, urgência para apreciação do Projeto de Lei Complementar nº 276, de 2002, do Poder Executivo, que \"altera a Lei Complementar nº 90, de 1º de outubro de 1997, que determina os casos em que forças estrangeiras possam transitar pelo território nacional ou nele permanecer temporariamente\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2014
     },
     {
@@ -2282,7 +2282,7 @@
       "idVotacao": "606409-4",
       "uriVotacao": "https://dadosabertos.camara.leg.br/api/v2/votacoes/606409-4",
       "dataHoraVoto": "2014-02-18T18:13:01",
-      "voto": NaN,
+      "voto": null,
       "deputado_id": 175212,
       "deputado_uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/175212",
       "deputado_nome": "Renato Simões",
@@ -2309,7 +2309,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2014-02-18T16:44:03",
       "ultimaApresentacaoProposicao_descricao": "Apresentação da Objeto de Deliberação n. 13/2014, pela Mesa Diretora da Câmara dos Deputados, que: \"eleição para membro do conselho nacional de justiça\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2014
     },
     {
@@ -2508,12 +2508,12 @@
       "votosNao": 54,
       "votosOutros": 33,
       "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 294; não: 54; abstenções: 3; total: 351.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2014-07-15T22:38:30",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Requerimento de Urgência (Art. 155 do RICD) n. 10487/2014, pelos Srs. Mendonça Filho, Líder do DEM; Rubens Bueno, Líder do PPS; Givaldo Carimbão, na qualidade de Líder do Bloco PP,PROS; André Moura, Líder do PSC; Lincoln Portela, na qualidade de Líder do Bloco PR,PTdoB,PRP; Arnaldo Faria de Sá, na qualidade de Líder do PTB; João Dado, na qualidade de Líder do SD; Moreira Mendes, Líder do PSD; Eurico Júnior, na qualidade de Líder do PV; Félix Júnior, Líder do PDT; Antonio Imbassahy, Líder do PSDB; e Beto Albuquerque, Líder do PSB que: \"Requer urgência, nos termos do art. 155, do Regimento Interno da Câmara dos Deputados, para apreciação do PDC 1.491/2014 que susta a aplicação do Decreto nº 8.243, de 23 de maio de 2014, que institui a Política Nacional de Participação Social - PNPS e o Sistema Nacional de Participação Social - SNPS, e dá outras providências\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2014
     },
     {
@@ -2724,7 +2724,7 @@
       "idVotacao": "808884-20",
       "uriVotacao": "https://dadosabertos.camara.leg.br/api/v2/votacoes/808884-20",
       "dataHoraVoto": "2014-12-09T17:07:09",
-      "voto": NaN,
+      "voto": null,
       "deputado_id": 175212,
       "deputado_uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/175212",
       "deputado_nome": "Renato Simões",
@@ -2751,7 +2751,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2014-12-02T19:35:46",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Projeto de Decreto Legislativo de Ministro do TCU n. 1612/2014, pelo Senado Federal, que: \"Escolhe o Sr. Vital do Rêgo Filho para o cargo de Ministro do Tribunal de Contas da União, nos termos do art. 73, §2º, inciso II, da Constituição Federal e do art. 105, inciso II, da Lei nº 8.443, de 16 de julho de 1992.\r\n\r\nNOVA EMENTA: Escolhe o Sr. Vital do Rêgo Filho para o cargo de Ministro do Tribunal de Contas da União, nos termos do inciso II do § 2º do art. 73 da Constituição Federal e do inciso II do art. 105 da Lei nº 8.443, de 16 de julho de 1992\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2014
     }
   ]

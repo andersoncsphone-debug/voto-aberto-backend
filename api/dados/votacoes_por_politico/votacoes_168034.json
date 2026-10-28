@@ -128,8 +128,8 @@
       "votosNao": 8,
       "votosOutros": 0,
       "descricao": "Aprovado o Parecer contra os votos dos Deputados Luiz Couto, Paes Landim, Onyx Lorenzoni, Vieira da Cunha, João Paulo Lima, Mendonça Filho, Alessandro Molon e Marina Santanna, apresentaram votos em separado os Deputados Luiz Couto, Vieira da Cunha, Onyx Lorenzoni e Eliseu Padilha.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2011-10-05T17:25:19",
       "ultimaApresentacaoProposicao_descricao": "Parecer do Relator, Dep. Arnaldo Faria de Sá (PTB-SP), pela admissibilidade.",
       "ultimaApresentacaoProposicao_idProposicao": 522955,
@@ -162,12 +162,12 @@
       "votosNao": 46,
       "votosOutros": 2,
       "descricao": "Aprovado o Requerimento. Sim: 320; não: 46; abstenção: 01; total: 367.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2011-12-14T18:38:54",
       "ultimaApresentacaoProposicao_descricao": "Apresentação da Requerimento de Urgência (Art. 155 do RICD) n. 4086/2011, pelo Deputado Guilherme Campos (PSD-SP), que: \"Requer, nos termos do art. 155 do Regimento da Câmara dos Deputados, urgência para apreciação do Projeto de Resolução nº 103/2011 , da Mesa, que Estabelece a estrutura funcional temporária da Liderança do Partido Social Democrático e dá outras providências nos termos que especifica\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2011
     },
     {
@@ -480,7 +480,7 @@
       "idVotacao": "537424-3",
       "uriVotacao": "https://dadosabertos.camara.leg.br/api/v2/votacoes/537424-3",
       "dataHoraVoto": "2012-03-14T19:23:53",
-      "voto": NaN,
+      "voto": null,
       "deputado_id": 168034,
       "deputado_uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/168034",
       "deputado_nome": "Cabo Juliano Rabelo",
@@ -507,7 +507,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2012-03-14T19:03:48",
       "ultimaApresentacaoProposicao_descricao": "Apresentação da Objeto de Deliberação n. 7/2012, pela Mesa Diretora da Câmara dos Deputados, que: \"Eleição para membro do Conselho Nacional do Ministério Público\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2012
     },
     {
@@ -536,12 +536,12 @@
       "votosNao": 18,
       "votosOutros": 46,
       "descricao": "Aprovado o Requerimento de Urgência (Art. 155 do RICD). Sim: 307; não: 18;  abstenção: 04; total: 329.\r\nDCD do dia 21/03/12 PÁG 7584 COL 02.",
-      "ultimaAberturaVotacao_dataHoraRegistro": NaN,
-      "ultimaAberturaVotacao_descricao": NaN,
+      "ultimaAberturaVotacao_dataHoraRegistro": null,
+      "ultimaAberturaVotacao_descricao": null,
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2012-03-20T19:39:00",
       "ultimaApresentacaoProposicao_descricao": "Apresentação da Requerimento de Urgência (Art. 155 do RICD) n. 4692/2012, pelo Deputado Jilmar Tatto (PT-SP), que: Requer urgência para apreciação do Projeto de Lei nº 301/2007, que \"Define condutas que constituem crimes de violação do direito internacional humanitário, estabelece normas para a cooperação judiciária com o Tribunal Penal Internacional e dá outras providências\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2012
     }
   ]

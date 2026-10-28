@@ -174,7 +174,7 @@
       "idVotacao": "808884-20",
       "uriVotacao": "https://dadosabertos.camara.leg.br/api/v2/votacoes/808884-20",
       "dataHoraVoto": "2014-12-09T16:52:34",
-      "voto": NaN,
+      "voto": null,
       "deputado_id": 178387,
       "deputado_uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/178387",
       "deputado_nome": "Francisco de Assis",
@@ -201,7 +201,7 @@
       "ultimaApresentacaoProposicao_dataHoraRegistro": "2014-12-02T19:35:46",
       "ultimaApresentacaoProposicao_descricao": "Apresentação do Projeto de Decreto Legislativo de Ministro do TCU n. 1612/2014, pelo Senado Federal, que: \"Escolhe o Sr. Vital do Rêgo Filho para o cargo de Ministro do Tribunal de Contas da União, nos termos do art. 73, §2º, inciso II, da Constituição Federal e do art. 105, inciso II, da Lei nº 8.443, de 16 de julho de 1992.\r\n\r\nNOVA EMENTA: Escolhe o Sr. Vital do Rêgo Filho para o cargo de Ministro do Tribunal de Contas da União, nos termos do inciso II do § 2º do art. 73 da Constituição Federal e do inciso II do art. 105 da Lei nº 8.443, de 16 de julho de 1992\".",
       "ultimaApresentacaoProposicao_idProposicao": 0,
-      "ultimaApresentacaoProposicao_uriProposicao": NaN,
+      "ultimaApresentacaoProposicao_uriProposicao": null,
       "ano": 2014
     }
   ]
