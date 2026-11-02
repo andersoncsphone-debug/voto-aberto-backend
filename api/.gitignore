@@ -1,15 +1,9 @@
-# Dados pesados (D025) — não subir pro GitHub
-dados/
+# Dados pesados - NÃO SUBIR PRO GITHUB
+api/dados/
 *.zip
 
 # Python
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
 venv/
 .env
-
-# Sistema
-.DS_Store
-Thumbs.db
