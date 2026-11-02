@@ -1,5 +1,6 @@
-# Dados pesados - NÃO SUBIR PRO GITHUB
-api/dados/
+# Arquivos locais que não sobem
+coletores/
+menu_coletor.bat
 *.zip
 
 # Python
